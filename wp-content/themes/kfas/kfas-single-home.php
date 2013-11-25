@@ -27,36 +27,29 @@ Template Name: KFAS Single Home Page
 		</div>-->
 <!--end of highlight bar-->
 				
-		<div id="main" class="twelvecol first clearfix" role="main">
+<div id="main" class="twelvecol first clearfix" role="main">
 			
-<!--start of editable text-->
-			<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-				<article id="post-<?php the_ID(); ?>" <?php post_class('clearfix'); ?> role="article" itemscope itemtype="http://schema.org/BlogPosting">
-						
-					<section class="entry-content clearfix" itemprop="articleBody">
-					<?php the_content(); ?>
-					</section> <!-- end article section -->
-						
-				</article> <!-- end article -->
-					
-					<?php endwhile; else : ?>
-					
-    					    <article id="post-not-found" class="hentry clearfix">
-    					    	<header class="article-header">
-    					    		<h1><?php _e("Oops, Post Not Found!", "bonestheme"); ?></h1>
-    					    	</header>
-    					    	<section class="entry-content">
-    					    		<p><?php _e("Uh Oh. Something is missing. Try double checking things.", "bonestheme"); ?></p>
-    					    	</section>
-    					    	<footer class="article-footer">
-    					    	    <p><?php _e("This is the error message in the page.php template.", "bonestheme"); ?></p>
-    					    	</footer>
-    					    </article>
-					
-					    <?php endif; ?>
-<!--end of editable text-->	
+	<div class="sixcol first why">
+	We’re a family accountancy firm based in Matlock. You can meet us in person and we’re interested in you and your business. You are not just a set of books to us.<br>
+Because we’re real people we can be flexible. If you need a late or weekend appointment to fit in with work, we can do that. If you’ve got a certain way that you like to do your books then we can work with that. We won’t make you fit in with one way of working or a favourite software package, but can always provide any guidance and recommendations.
+	</div>
+
+	<div class="sixcol last call-to-action" clearfix>
+	<p>Get in touch with us today to arrange your free consultation meeting. We'd love to hear about your business and plans.</p>
+	<p>
+		<a class="call-button" href="<?php echo get_home_url(); ?>/contact-us">Book your free consultation now</a>
+	</p>
+	<ul>
+		<li>Get a fixed price quote - no surprises</li>
+		<li>Meet us in person</li>
+		<li>No obligation to continue</li> 
+	</ul>
+	</div>
+
+<hr>
 						
 <!--start of WHAT section, three columns-->
+
 						<div class="fourcol first" id="what-section">
 						<h5 style="color:#cc3399;"><i class="icon-cog icon-4x pull-left icon-muted" style="color:#cc3399;"></i>Starting Out</h5><br />
 						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I'm getting stressed, there is so much to organise and understand. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
@@ -88,6 +81,7 @@ Template Name: KFAS Single Home Page
 						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>Am I doing my property returns correctly? <i class="icon-quote-right" style="color:#cc3399;"></i></p>
 						<p>We can give you access to financial resources to support you including accounting tools, news and updates about changes that may affect your businesses.</p> 
 						</div>
+
 <!--end of WHAT section, three columns -->
 			
     				</div> <!-- end #main -->
