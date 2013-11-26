@@ -400,9 +400,6 @@ and more scalable.
     background: @blue-sky;
     }
     
-    #what-section {
-    color: @dark-grey;
-    }
 } /* end #content*/
 
 		.hentry {
@@ -578,9 +575,12 @@ HOME PAGE STYLE
     color: @purple;
 }
 
-.why {
+.intro {
 	margin: 1em 0em;
 	padding: 0.5em;
+	color: #333333;
+	text-align: center;
+	font-size:1.6em;
 }
 
 .call-to-action {
@@ -591,6 +591,9 @@ color: #fff;
 text-aligh: right;
 padding: 0.5em;
 min-height: 200px;
+border: 1px solid #666666;
+border-radius: 4px;
+box-shadow: 0 0 8px rgba(0, 0, 0, 0.3), -1px -1px 0 #D4D4D4, 1px -1px 0 #D4D4D4, 0 1px 0 #DFDFDF;
 
 	p {
 	text-align: center;
@@ -612,8 +615,9 @@ hr {
 }
 
 a.call-button {
-background: none repeat scroll 0 0 #ff0033;
+background: none repeat scroll 0 0 #cc3399;
     border: 0 none;
+    border: 1px solid #cc3366;
     border-radius: 40px;
     color: #FFFFFF;
     display: inline;
@@ -627,10 +631,52 @@ background: none repeat scroll 0 0 #ff0033;
     text-decoration: none;
     text-transform: uppercase;
     transition: background-color 0.2s linear 0s;
-}
+  }
 
 a.call-button:hover {
 	background: none repeat scroll 0 0 #336699;
+	color: #ffffff;
+	border-color: #003366;
+}
+
+.what {
+	background-image: url("@{base-url}images/kfas-background.png");
+	border: 1px solid #666666;
+	border-radius: 4px;
+	box-shadow: 0 0 8px rgba(0, 0, 0, 0.3), -1px -1px 0 #D4D4D4, 1px -1px 0 #D4D4D4, 0 1px 0 #DFDFDF;
+	padding: 0.5em 0.5em 0.5em 0.75em;
+	margin-bottom: 1em;
+	color: #333333;
+	min-height: 450px;
+
+	h5 {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	}
+}
+
+a.startup-button {
+background: none repeat scroll 0 0 #ccc;
+    border: 0 none;
+    border: 1px solid #999;
+    border-radius: 40px;
+    color: #333;
+    display: inline;
+    font-size: 14px;
+    font-weight: 700;
+    height: 46px;
+    letter-spacing: 2px;
+    outline: 0 none;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.2s linear 0s;
+  }
+
+a.startup-button:hover {
+	background: none repeat scroll 0 0 #336699;
+	color: #ffffff;
+	border-color: #003366;
 }
 
 /******************************************************************
