@@ -41,9 +41,7 @@
 
 	<body <?php body_class(); ?>>
 
-		<div id="container">
-
-			<header class="header" role="banner">
+				<header class="header" role="banner">
 
 				<div id="inner-header" class="wrap clearfix">
 				
@@ -78,3 +76,5 @@
 				</div> <!-- end #inner-header -->
 
 			</header> <!-- end header -->
+
+			<div id="container">

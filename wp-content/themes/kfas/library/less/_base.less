@@ -36,6 +36,7 @@ body {
 	line-height: 1.5;
 	color: @mid-blue;
     background-image: url("@{base-url}images/kfas-background.png");
+    margin: 0px;
 }
 
 #container{
@@ -135,71 +136,6 @@ p{
             position: relative;
             }
             
-/**********
-HIGHLIGH BAR ON HOME PAGE
-***********/
-            
-.highlight-bar {
-            background: none repeat scroll 0 0 @highlight-bar;
-            border-bottom: 1px solid @dark-blue;
-            border-top: 1px solid @dark-blue;
-            margin: 2.2em -20px;
-            padding: 20px 20px 10px;
-        
-       .btn-large {
-        display: inline-block;
-        outline: none;
-        cursor: pointer;
-        text-align: center;
-        padding: .5em 2em .55em;
-        color:white;
-        text-shadow: 0 1px 1px rgba(0,0,0,.3);
-        -webkit-border-radius: .5em; 
-    	-moz-border-radius: .5em;
-	    border-radius: .5em;
-	    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
-	    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
-	    box-shadow: 0 1px 2px rgba(0,0,0,.2);
-        text-decoration: none;
-        background-color:@purple;
-        border-width: 1px;
-        border-color: #cc0099;
-        border-style: solid;  
-        
-        :hover {
-            text-decoration: none;
-        }
-        
-        :active {
-            position: relative;
-            top: 1px;
-        }
-       }
-        
-    .purple {
-    color: #fef4e9;
-	border: solid 1px #cc0099;
-	background: @purple;
-	background: -webkit-gradient(linear, left top, left bottom, from(#dd45aa), to(#be25ab));
-	background: -moz-linear-gradient(top,  #dd45aa,  #be25ab);
-	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#dd45aa', endColorstr='#be25ab');
-}
-.purple:hover {
-    color: #fef4e9;
-	background: @purple;
-	background: -webkit-gradient(linear, left top, left bottom, from(#b92387), to(#c32b90));
-	background: -moz-linear-gradient(top,  #b92387,  #c32b90);
-	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#b92387', endColorstr='#c32b90');
-}
-.purple:active {
-	color: #eee7e0;
-	background: -webkit-gradient(linear, left top, left bottom, from(#c32b90), to(#b92387));
-	background: -moz-linear-gradient(top,  #c32b90,  #b92387);
-	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#c32b90', endColorstr='#b92387');
-}
-    }
-    
-                
 /*********************
 03. LAYOUT & GRID STYLES
 *********************/
@@ -302,9 +238,20 @@ h6, .h6 {
 *********************/
 
 .header {
+
+		position: fixed;
+		height: 100px;
+		width: 100%;
+		margin: auto;
+		background-color: #fff;
+		top: 0px;
+		z-index: 9005;
+		border-bottom: 1px solid #ccc;
+		 box-shadow: 0 0 8px rgba(0, 0, 0, 0.3), -1px -1px 0 #D4D4D4, 1px -1px 0 #D4D4D4, 0 1px 0 #DFDFDF;
+
     	#inner-header {
             max-width: 1000px;
-            margin: 20px auto 0;
+            margin: 0px auto 0;
             
             #logo {
                 float: left;
@@ -388,8 +335,8 @@ and more scalable.
 *********************/
 
 #content {
-	margin-top: 0em;
-    background-color: @background;
+	margin-top: 125px;
+	background-color: @background;
     border: 1px solid @mid-blue;
     border-radius: 4px 4px 4px 4px;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.3), -1px -1px 0 #D4D4D4, 1px -1px 0 #D4D4D4, 0 1px 0 #DFDFDF;
@@ -567,13 +514,19 @@ HOME PAGE STYLE
 ***********************************/
 .home-image {
         display:none;
+        border-bottom: 1px solid #336699;
     }
+
 .home-image-text-mobile {
     display:block;
     padding-left: 20px;
     padding-right: 20px;
     color: @purple;
 }
+
+#intro {
+	margin-top: 2em;
+	}
 
 .intro {
 	margin: 1em 0em;
@@ -610,7 +563,7 @@ hr {
   float: none; 
   width: 100%; 
   height: 1px;
-  margin: 1.4em 0;
+  margin: 1.8em 0;
   border: none; 
 }
 
@@ -645,7 +598,8 @@ a.call-button:hover {
 	border-radius: 4px;
 	box-shadow: 0 0 8px rgba(0, 0, 0, 0.3), -1px -1px 0 #D4D4D4, 1px -1px 0 #D4D4D4, 0 1px 0 #DFDFDF;
 	padding: 0.5em 0.5em 0.5em 0.75em;
-	margin-bottom: 1em;
+	margin-bottom: 3em;
+	margin-top: 1.8em;
 	color: #333333;
 	min-height: 450px;
 
@@ -677,6 +631,10 @@ a.startup-button:hover {
 	background: none repeat scroll 0 0 #336699;
 	color: #ffffff;
 	border-color: #003366;
+}
+
+#about {
+	padding: 0em 1em 3em 1em;
 }
 
 /******************************************************************
