@@ -39,22 +39,6 @@ body {
     margin: 0px;
 }
 
-#container{
-    max-width:1000px;
-    margin: 0 auto;
-    width: 90%;
-}
-
-#main {
-    padding-left:20px;
-    padding-right:20px;
-}
-
-img {
-    max-width: 100%;
-    display:block;
-}
-
 .secondarycontent {
     display: none;
 }
@@ -512,6 +496,24 @@ and more scalable.
 /***********************************
 HOME PAGE STYLE
 ***********************************/
+
+#container{
+    max-width:1000px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+#main {
+    padding-left:0px;
+    padding-right:0px;
+}
+
+img {
+    max-width: 100%;
+    display:block;
+}
+
+
 .home-image {
         display:none;
         border-bottom: 1px solid #336699;
@@ -525,7 +527,10 @@ HOME PAGE STYLE
 }
 
 #intro {
-	margin-top: 2em;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #ccc;
 	}
 
 .intro {
@@ -567,6 +572,12 @@ hr {
   border: none; 
 }
 
+#break {
+	clear: both;
+	float: none;
+	width: 100%;
+}
+
 a.call-button {
 background: none repeat scroll 0 0 #cc3399;
     border: 0 none;
@@ -584,6 +595,7 @@ background: none repeat scroll 0 0 #cc3399;
     text-decoration: none;
     text-transform: uppercase;
     transition: background-color 0.2s linear 0s;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3), -1px -1px 0 #D4D4D4, 1px -1px 0 #D4D4D4, 0 1px 0 #DFDFDF;
   }
 
 a.call-button:hover {
@@ -592,7 +604,17 @@ a.call-button:hover {
 	border-color: #003366;
 }
 
-.what {
+#services {
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	/*background-color: #ccc;*/
+	border-bottom: 1px solid #336699;
+	border-top: 1px solid #336699;
+	}
+
+.services {
 	background-image: url("@{base-url}images/kfas-background.png");
 	border: 1px solid #666666;
 	border-radius: 4px;
@@ -625,6 +647,7 @@ background: none repeat scroll 0 0 #ccc;
     text-align: center;
     text-decoration: none;
     transition: background-color 0.2s linear 0s;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3), -1px -1px 0 #D4D4D4, 1px -1px 0 #D4D4D4, 0 1px 0 #DFDFDF;
   }
 
 a.startup-button:hover {
@@ -634,7 +657,12 @@ a.startup-button:hover {
 }
 
 #about {
-	padding: 0em 1em 3em 1em;
+margin-top: 40px;
+	}
+
+.about {
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 /******************************************************************
