@@ -33,7 +33,7 @@ Template Name: KFAS Single Home Page
 	<div class="sixcol last call-to-action">
 	<p>Get in touch with us today to arrange your free consultation meeting. We'd love to hear about your business and plans.</p>
 	<p>
-		<a class="call-button" href="<?php echo get_home_url(); ?>/contact-us">Book your free consultation now   ></a>
+		<a class="call-button" href="#contact-a">Book your free consultation now   ></a>
 	</p>
 	<ul>
 		<li>Get a fixed price quote - no surprises</li>
@@ -60,7 +60,9 @@ Template Name: KFAS Single Home Page
 <section id="services">
 
 <div class="services-container twelvecol first">
+<a class="anchor" id="services-a"></a>
 <h2>Our Services</h2>
+
 
 						<div class="fourcol first services">
 						<h5 style="color:#cc3399;"><i class="icon-lightbulb icon-4x pull-left icon-muted" style="color:#cc3399;"></i>New Business Kick-Starter<br></h5>
@@ -103,6 +105,7 @@ Template Name: KFAS Single Home Page
 <section id="about">
 	
 	<div class="twelvecol first about">
+	<a class="anchor" id="about-a"></a>
 	<h2>Our philosophy</h2>
 	<h3>You've got enough to worry about, so we'll fit in with you</h3>
 	<p>Because we’re real people we can be flexible. If you need a late or weekend appointment to fit in with work, we can do that. If you’ve got a certain way that you like to do your books then we can work with that. We won’t make you fit in with one way of working or a favourite software package, but can always provide any guidance and recommendations.
@@ -120,16 +123,23 @@ Template Name: KFAS Single Home Page
 <section id ="contact">
 	
 	<div class="sixcol first contact">
+	<a class="anchor" id="contact-a"></a>
 	<h2>Contact us</h2>
-	[contact-form-7 id="220" title="Contact form 1"]
-	</div>
+<h6><span style="color: #cc3399;">Call us</span> on 01629 55255</h6>
+<h6><span style="color: #cc3399;">Email us</span> at <a href="mailto:enquiries@kfaccounting.co.uk">enquiries@kfaccounting.co.uk </a></h6>
+<h6><span style="color: #cc3399;">Visit us</span> at 81 Dale Road, Matlock, DE4 3LU</h6>
+<!--<p style="text-align: center;"><iframe src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14&amp;output=embed" height="350" width="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><br />
+<p><small><a style="color: #0000ff; text-align: left;" href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14">View Larger Map</a></small></p>-->
+</div>
+</section> 	
+	
 
-	<div class="sixcol last contact">
-	<h2>Our philosophy</h2>
-	<h3>You've got enough to worry about, so we'll fit in with you</h3>
-	<p>Because we’re real people we can be flexible. If you need a late or weekend appointment to fit in with work, we can do that. If you’ve got a certain way that you like to do your books then we can work with that. We won’t make you fit in with one way of working or a favourite software package, but can always provide any guidance and recommendations.
-	</p>
-	</div>				
+<div class="sixcol last contact">
+<p>You can find our offices in Dale Road in the centre of Matlock.</p>
+<p>If coming from Derby and Matlock Bath on the A6, the office entrance is just before Old Derwent Avenue on the right, between Monks Bar and the Chinese.</p>
+<p>Coming from Bakewell on the A6 the office office enterance is on the left.</p>
+<p>Car parking is available in the parking area to the front of the shops adjacent to the office, or in the public car park on Old Derwent Avenue.</p>			
+</div>				
   
 </section> 
    				</div> <!-- end #main -->
