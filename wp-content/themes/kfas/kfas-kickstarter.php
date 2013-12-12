@@ -4,7 +4,7 @@ Template Name: KFAS kickstarter page
 */
 ?>
 
-<?php get_header(); ?>
+<!--<?php get_header(); ?>-->
 			
 <div id="content">
 			
@@ -44,50 +44,7 @@ Template Name: KFAS kickstarter page
     					    </article>
 					
 					    <?php endif; ?>
-						<div class = "servicelist">
-						<div class = "threecol first">
-						<h5><i class="icon-bar-chart icon-4x pull-left icon-muted"></i> Accounts</br>Preparation</h5>
-						<ul>
-						<li>Bookeeping</li>
-						<li>Management Accounts</li>
-						<li>Annual Accounts</li>
-						<li>Cash Flow Forecasting</li>
-						</ul>
-						</div>
-						
-						<div class ="threecol">
-						<h5><i class="icon-briefcase icon-4x pull-left icon-muted"></i>Taxation</br>
-						Services</a></h5>
-						<ul>
-						<li>Self Assessment Tax Return/li>
-						<li>Partnership Tax Return</li>
-						<li>Corporation Tax</li>
-						<li>VAT</li>
-						</ul>
-						</div>
-						
-						<div class = "threecol">
-						<h5><a href="#"><i class="icon-laptop icon-4x pull-left icon-muted"></i>Limited</br>Company</a></h5>
-						<ul>
-						<li>Company Formation</li>
-						<li>Annual Returns</li>
-						<li>Corporation Tax</li>
-						<li>Company Tax</li>
-						</ul>
-						</div>
-						
-						<div class = "threecol last">
-						<h5><a href="#"><i class="icon-building icon-4x pull-left icon-muted"></i>Business</br>
-						Services</a></h5>
-						<ul>
-						<li>Payroll</li>
-						<li>CIS Returns</li>
-						<li>Human Resources and employment contract advice</li>
-						</ul> 
-						</div>
-						
-						</div><!--end of four columns and servicelist --->
-																
+														
 							
     				</div> <!-- end #main -->
 					  		    

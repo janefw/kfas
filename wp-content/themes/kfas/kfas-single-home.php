@@ -8,31 +8,8 @@ Template Name: KFAS Single Home Page
 <a class="anchor" id="home-a"></a>			
 <div id="content">
 			
-	<div id="inner-content" class="wrap clearfix">			
+	<div id="inner-content" class="clearfix">			
 	
-<!--start of home image-->
-<section id="homepage-image">
-
-<div id="home-intro" class="page-intro">
-			<div class="home-image-text-mobile">
-			<p>We’re a chartered accountancy firm based in Matlock.<br>You can meet us in person and we’re interested in you and your business.<br>You are not just a set of books to us.<p>
-			</div>
-
-			<div class="home-image">
-			<img src="<?php echo get_template_directory_uri(); ?>/images/kfas-home.png" / alt="KF Accounting Services - We're a Matlock based accountancy firm providing reliable and professional services to local businesses">
-			<!--<img src="<?php echo get_template_directory_uri(); ?>/images/jane-home.png" / alt="KF Accounting Services - We're a Matlock based accountancy firm providing reliable and professional services to local businesses" width="1000" height="750">-->
-			</div>
-
-			<div class="home-text">
-			<p>We’re a chartered accountancy firm based in Matlock.</p><p>You can meet us in person and we’re interested in you and your business.</p><p>You are not just a set of books to us.</p>
-			<p>
-			<a class="call-button" href="#contact-a">Talk to us </a>
-			</p>
-			</div>
-
-			</div>
-</section>
-<!--end of home image-->
 <section id="introduction">		
 
 <div id="main" class="twelvecol first clearfix" role="main">
@@ -40,21 +17,19 @@ Template Name: KFAS Single Home Page
 <!--start of intro section, two columns-->
 <div class="intro-container clearfix page">	
 <a class="anchor" id="intro-a"></a>
-<h2>What we do</h2>
-	<div class="twelvecol first intro">
-			<p>We specialise in providing accounting services to new businesses and smaller organisations, giving them great value and tailoring our approach and services to small business needs.</p>
+<!--<h2>What we do</h2>-->
+	<div class="sixcol first intro">
+			
 	</div>
 
-	<div class="twelvecol last call-to-action">
-	<p>Get in touch with us today to arrange your free consultation meeting. We'd love to hear about your business and plans.</p>
-	<p>
-		<a class="call-button" href="#contact-a">Book your free consultation NOW</a>
-	</p>
-	<ul>
-		<li>Get a fixed price quote - no surprises</li>
-		<li>Meet us in person</li>
-		<li>No obligation to continue</li> 
-	</ul>
+	<div class="sixcol last intro">
+		<h2>Accounting services, simple, straighforward and easy.</h2>
+		<p>We are a Matlock based chartered accountancy practice. </p>
+		<p>Get in touch with us today to arrange your FREE consultation and meet us in person.</p>
+		<div id="call-to-action">
+			<a class="call-button talk" href="#contact-a">Talk to us</a>
+			<a class="call-button more" href="#services-a">Find out more</a>
+		</div>
 	</div>
 
 </div>
@@ -150,12 +125,12 @@ Template Name: KFAS Single Home Page
 	
 	<div class="twelvecol first about">
 	<a class="anchor" id="about-a"></a>
-	<h2>Our philosophy</h2>
+	<h2>Our approach</h2>
+	<h3>Money matters made simple, tailored to your needs.</h3>
+	<!--<h3>We think you've probably got enough to worry about, so we'll fit in with you</h3>-->
 	
-	<h3>You've got enough to worry about, so we'll fit in with you</h3>
-		
 		<div class="fourcol first about">
-		<h5>Flexible meetings</h5>
+		<h5>Meetings to suit you</h5>
 		<i class="fa-smile-o icon-4x"></i>
 		</div>
 	
@@ -186,7 +161,7 @@ Template Name: KFAS Single Home Page
 	<div class="twelvecol first about">
 	<a class="anchor" id="who-a"></a>
 	<h2>Who we are</h2>
-	
+	<p>We’re a chartered accountancy firm based in Matlock. Come and meet us in person.</p>
 	<div class="fourcol first about">
 		<h5>Keith Falconer<br>Director</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/keith-icon.png" / alt="Keith Falconer" height="250" width="300">
@@ -200,9 +175,9 @@ Template Name: KFAS Single Home Page
 		</div>
 	
 		<div class="fourcol last about">
-		<h5>Doreen Watt<br>Bookkeeping</h5>
+		<h5>Doreen Watt<br>Book keeping</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/doreen-icon.png" / alt="Doreen Watt" height="250" width="308">
-		<p>Doreen looks after bookkeeping and admin. She is also fantastic at making cakes.</p>
+		<p>Doreen looks after book keeping and admin. She is also fantastic at making cakes.</p>
 		</div>
 	</div>	
 
@@ -217,7 +192,7 @@ Template Name: KFAS Single Home Page
 	
 	<a class="anchor" id="contact-a"></a>
 	<h2>Get in touch</h2>
-
+	<p>Give us a call to arrange your free consultation.</p>
 	<div class="sixcol first contact-info">
 		<p><span style="color: #cc3399; font-weight: bold;">Call us:</span> on 01629 55255</p>
 		<p><span style="color: #cc3399; font-weight: bold;">Email us:</span> at <a href="mailto:enquiries@kfaccounting.co.uk">enquiries@kfaccounting.co.uk </a></p>
