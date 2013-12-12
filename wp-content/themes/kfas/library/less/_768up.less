@@ -43,11 +43,27 @@ HOME PAGE IMAGE
 ****************************/
  .home-image {
         display:block;
-    }
+        width: 100%;
+        position: relative;
+          }
     
 .home-image-text-mobile {
     display:none;
 }
+
+.home-text {
+	display: block;
+	position: absolute;
+	top: 0px; 
+   left: 30px; 
+   width: 30%;
+
+   }
+
+  .page {
+	min-height: 750px;
+	padding-top: 50px;
+	}
 
 /***************************
 HERO PICTURE 
@@ -116,6 +132,8 @@ NAVIGATION STYLES
 }
 
 #main-nav {
+    font-family: "OpenSans-Light", @sans-serif;
+    font-weight: 500;
     display: block;
     margin-top: 45px;
     }
@@ -226,7 +244,7 @@ NAVIGATION STYLES
         a {
     		display: block;
 			text-decoration: none;
-			padding: 10px 10px;
+			padding: 5px 15px;
 			}
         }
     }
@@ -375,6 +393,10 @@ mobile. Make sure to double check these!
              line-height:1.0;
          }
      }
+}
+
+.footer-section {
+	padding-left: 75px;
 }
 
 .footer-links {

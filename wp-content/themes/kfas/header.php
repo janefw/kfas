@@ -37,6 +37,8 @@
 		<!-- drop Google Analytics Here -->
 		<!-- end analytics -->
 
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
 	</head>
 
 	<body <?php body_class(); ?>>
@@ -56,7 +58,7 @@
 					
 					<a href="<?php echo home_url(); ?>" rel="nofollow">
 					
-					<img id="logo" width="300" height="87" src="<?php echo get_template_directory_uri(); ?>/library/images/kfas-logo-tran.gif">
+					<img id="logo" src="<?php echo get_template_directory_uri(); ?>/library/images/kfas-logo-tran.gif" width="300" height="87">
 					</a>
 					
 					<!-- if you'd like to use the site description you can un-comment it below -->
@@ -65,12 +67,15 @@
 					<nav id="main-nav" class= "navbar" role="navigation">
 					<!--<?php bones_main_nav(); ?>-->
 					 <ul>
-    <li><a class="link" href="<?php echo get_home_url(); ?>"><i class="icon-home icon-large"></i> Home</a></li>
+    <li><a class="link" href="#home-a"<i class="icon-home icon-large"></i> Home</a></li>
+    <!--<li><a class="link" href="<?php echo get_home_url(); ?>"<i class="icon-home icon-large"></i> Home</a></li>-->
     <li><a class="link" href="#services-a"><i class="icon-book icon-large"></i> Our Services</a></li>
     <!--<li><a class="link" href="<?php echo get_home_url(); ?>/our-services"><i class="icon-book icon-large"></i> Our Services</a></li>-->
-    <li><a class="link" href="#about-a"><i class="icon-pencil icon-large"></i> About Us</a></li>
+    <li><a class="link" href="#about-a"><i class="icon-pencil icon-large"></i> About</a></li>
+    <li><a class="link" href="#who-a"><i class="fa-user icon-large"></i> Who</a></li>
     <!--<li><a class="link" href="<?php echo get_home_url(); ?>/about-us"><i class="icon-pencil icon-large"></i> About Us</a></li>-->
-    <li><a class="link" href="<?php echo get_home_url(); ?>/contact-us"><i class="icon-envelope icon-large"></i> Contact Us</a></li>
+    <!--<li><a class="link" href="<?php echo get_home_url(); ?>/contact-us"><i class="icon-envelope icon-large"></i> Contact Us</a></li>-->
+    <li><a class="link" href= "#contact-a"><i class="icon-envelope icon-large"></i> Contact Us</a></li>
     </ul>
 					</nav>
 
