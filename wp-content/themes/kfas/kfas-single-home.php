@@ -50,24 +50,11 @@ Template Name: KFAS Single Home Page
 						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I want to focus on my new business; I don’t want to waste time. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
 						<p>When you are just starting out there are a lot of things to take care of. We help with everything from the business plan, incorporations, payroll setup to selecting an accounts package.</p>
 						
-						<a href="#" id="trigger-kickstarter">Our startup services</a>
-    					<div id="target-kickstarter">
-						<ul>
-						<li>Limited Company Incorporations</li>
-						<li>Companies House registration</li>
-						<li>VAT registration</li>
-						<li>Payroll registration</li>
-						<li>Payroll setup</li>
-						<li>Work out your bookeeping processes</li>
-						<li>Help you select a bookkeeping system</li>
-						<li>Provide bookkeeping training</li>
-						</ul>
-						</div>
-
-						<p>Talk about our start-up services and new business package.</p>
 						<p>
-							<a class="startup-button" href="#contact-a">I'm starting out</a>
+							<a class="startup-button" href="<?php echo home_url(); ?>/business-kick-starter/">I'm starting out</a>
 						</p>
+						
+						<p>Come and talk about our start-up services and new business package.</p>
 						</div>
 						
 						<div class="fourcol services">
@@ -76,21 +63,11 @@ Template Name: KFAS Single Home Page
 						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I just don’t know how to get on top of my accounts. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
 						<p>Business has been busy and you’ve not done your books for a while. Before you know it you’ve got missing tax returns and fines. We can help you to get back on track with your accounts and avoid the stress and worry.</p>
 						
-						<a href="#" id="trigger-firstaid">How we can help</a>
-    					<div id="target-firstaid">
-						<ul>
-						<li>Get your accounts up to date in a new or existing accounting package</li>
-						<li>Produce any missing returns</li>
-						<li>Submit missing returns</li>
-						<li>Liaise with HMRC and Companies House on your behalf</li>
-						<li>Work out your future bookkeeping processes with you.</li>
-						</ul>
-						</div>
+						<p>
+							<a class="startup-button" href="<?php echo home_url(); ?>/finance-first-aid/">I need urgent help</a>
+						</p>
 
 						<p>Get in touch about our finance first aid package.</p>
-						<p>
-							<a class="startup-button" href="#contact-a">I need urgent help</a>
-						</p>
 						</div>
 
 						<div class="fourcol services last">
@@ -98,21 +75,11 @@ Template Name: KFAS Single Home Page
 						<!--<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I've outgrown the way I used to do things, I need to make some changes. <i class="icon-quote-right" style="color:#cc3399;"></i></p>-->
 						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I need some regular support with my finances and returns. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
 						<p>Whether you need work out your VAT, CIS, submit your annual returns or keep on top of your accounts more regularly we can help. We can provide advice, support and services as your business grows.</p>
-						
-						<a href="#" id="trigger-businessservices">Our accounts packages</a>
-    					<div id="target-businessservices">
-						<ul>
-						<li>Accounting Lite</li>
-						<li>Accounting Basics</li>
-						<li>Accounting Extra</li>
-						<li>Accounting Max</li>
-						</ul>
-						</div>
-
-						<p>Chat about our business accounting and taxation services.</p>
 						<p>
-							<a class="startup-button" href="#contact-a">I need ongoing support</a>
+							<a class="startup-button" href="<?php echo home_url(); ?>/business-support/">I need ongoing support</a>
 						</p>
+						<p>Chat about our business accounting and taxation services.</p>
+						
 						</div>									
 	</div>
 </section>
