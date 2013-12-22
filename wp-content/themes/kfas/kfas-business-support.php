@@ -70,7 +70,7 @@ Template Name: KFAS business support
 						<li><a class="link" href="<?php echo home_url(); ?>/#services-a"><i class="icon-book icon-large"></i> Our Services</a></li>
 						 <li><a class="link" href="<?php echo home_url(); ?>/#about-a"><i class="icon-pencil icon-large"></i> About</a></li>
     					<li><a class="link" href="<?php echo home_url(); ?>/#who-a"><i class="fa-user icon-large"></i> Who</a></li>
-    					<li><a class="link" href= "<?php echo home_url(); ?>/#contact-a"><i class="icon-envelope icon-large"></i> Contact Us</a></li>
+    					<li><a class="link" href= "<?php echo home_url(); ?>/#contact-a"><i class="icon-phone icon-large"></i> Contact Us</a></li>
 					</nav>
 
 				</div> <!-- end #inner-header -->
@@ -110,21 +110,21 @@ Template Name: KFAS business support
 							<p>Business accounts must already be in an accounting package.</p> 
 							</div>
 							<div class = "includes">
-							<p>Includes
+							<p><strong>Includes:</strong>
 								<ul>
-								<li>One set of annual accounts</li>
-								<li>One year end tax return</li>
-								<li>One annual return (if Limited Company)</li>
-								<li>Annual review meeting</li>
-								<li>Year round advice and guidance</li>
+								<li><i class="fa fa-check"></i>One set of annual accounts</li>
+								<li><i class="fa fa-check"></i>One year end tax return</li>
+								<li><i class="fa fa-check"></i>One annual return (if Ltd Co)</li>
+								<li><i class="fa fa-check"></i>Annual review meeting</li>
+								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
 								</ul></p>
 							</div>
-								<p>Price from: £150</p>
+								<p><strong>Price from: £150</strong></p>
 
-								<p>Extras
+								<p><strong>Extras:</strong>
 								<ul>
-								<li>Book keeping work</li>
-								<li>Extra returns e.g. personal tax return</li>
+								<li><i class="fa fa-star"></i>Book keeping work</li>
+								<li><i class="fa fa-star"></i>Extra returns e.g. personal tax return</li>
 								</ul>
 							</p>
 					    </div>
@@ -136,26 +136,26 @@ Template Name: KFAS business support
 					    	</p>
 					    	</div>
 							<div class = "includes">
-							<p>Includes:
+							<p><strong>Includes:</strong>
 								<ul>
-								<li>Book keeping entry - accounts tidy up</li>
-								<li>Quarterly VAT returns</li>
-								<li>One set of annual business accounts</li>
-								<li>Year end tax return for business</li> 
-								<li>One personal tax return</li>
-								<li>Director’s payroll</li>
-								<li>6 monthly meeting</li>
-								<li>Year round advice and guidance</li>
+								<li><i class="fa fa-check"></i>Book keeping entry - accounts tidy up</li>
+								<li><i class="fa fa-check"></i>Quarterly VAT returns</li>
+								<li><i class="fa fa-check"></i>One set of annual business accounts</li>
+								<li><i class="fa fa-check"></i>Year end tax return for business</li> 
+								<li><i class="fa fa-check"></i>One personal tax return</li>
+								<li><i class="fa fa-check"></i>Director’s payroll</li>
+								<li><i class="fa fa-check"></i>6 monthly meeting</li>
+								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
 								</ul></p>
 							</div>
-							<p>Price from: £350</p>
-							<p>Extras
+							<p><strong>Price from: £350</strong></p>
+							<p><strong>Extras:</strong>
 								<ul>
-								<li>Additional Book keeping entry</li>
-								<li>Payroll</li>
-								<li>Incorporations</li>
-								<li>Additional personal tax return</li>
-								<li>Personal tax returns with more complicated circumstances</li>
+								<li><i class="fa fa-star"></i>Additional Book keeping entry</li>
+								<li><i class="fa fa-star"></i>Payroll</li>
+								<li><i class="fa fa-star"></i>Incorporations</li>
+								<li><i class="fa fa-star"></i>Additional personal tax return</li>
+								<li><i class="fa fa-star"></i>Personal tax returns with more complicated circumstances</li>
 								</ul></p>
 					    </div>
 
@@ -166,7 +166,7 @@ Template Name: KFAS business support
 					    	</p>
 							</div>
 							<div class = "includes">
-							<p>Includes:
+							<p><strong>Includes:</strong>
 								<ul>
 								<li><i class="fa fa-check"></i>Monthly Book keeping</li>
 								<li><i class="fa fa-check"></i>Monthly management accounts</li>
@@ -181,11 +181,11 @@ Template Name: KFAS business support
 								</ul>
 							</p>
 							</div>
-							<p>Price from: £450</p>
-							<p>Extras
+							<p><strong>Price from: £450</strong></p>
+							<p><strong>Extras:</strong>
 								<ul>
-								<li>Payroll</li>
-								<li>Incorporations</li>
+								<li><i class="fa fa-star"></i>Payroll</li>
+								<li><i class="fa fa-star"></i>Incorporations</li>
 								</ul>
 							</p>
 					    </div>
@@ -197,18 +197,18 @@ Template Name: KFAS business support
 						</p>
 						</div>
 						<div class = "includes">
-						<p>Includes:
+						<p><strong>Includes:</strong>
 							<ul>
-							<li>Act as outsourced finance section</li>
-							<li>Handle Customer and Supplier ledgers</li>
-							<li>Handle customer invoicing</li>
-							<li>Handle bank reconciliation</li>
-							<li>Payroll</li>
-							<li>Weekly cash flow and ledger reports</li>
-							<li>Plus all features of Acccounting Extra</li>
+							<li><i class="fa fa-check"></i>Act as outsourced finance section</li>
+							<li><i class="fa fa-check"></i>Handle Customer and Supplier ledgers</li>
+							<li><i class="fa fa-check"></i>Handle customer invoicing</li>
+							<li><i class="fa fa-check"></i>Handle bank reconciliation</li>
+							<li><i class="fa fa-check"></i>Payroll</li>
+							<li><i class="fa fa-check"></i>Weekly cash flow and ledger reports</li>
+							<li><i class="fa fa-check"></i>Plus all features of Acccounting Extra</li>
 						</p>
 						</div>
-						<p>Price: quote provided</p>
+						<p><strong>Price: quote provided</strong></p>
 					    </div>
 						</section>
 
@@ -234,7 +234,7 @@ Template Name: KFAS business support
 	    	<li><a class="link" href="<?php echo home_url(); ?>/#services-a"><i class="icon-book"></i> Our Services</a></li>
 	        <li><a class="link" href="<?php echo home_url(); ?>/#about-a"><i class="icon-pencil"></i> About</a></li>
 	    	<li><a class="link" href="<?php echo home_url(); ?>/#who-a"><i class="icon-user"></i> Who</a></li>
-	        <li><a class="link" href= "<?php echo home_url(); ?>/#contact-a"><i class="icon-envelope"></i> Contact Us</a></li>
+	        <li><a class="link" href= "<?php echo home_url(); ?>/#contact-a"><i class="icon-phone"></i> Contact Us</a></li>
 	    	</ul>
 	    </nav>
 	 

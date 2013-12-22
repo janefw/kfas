@@ -70,7 +70,7 @@ Template Name: KFAS products page
 						<li><a class="link" href="<?php echo home_url(); ?>/#services-a"><i class="icon-book icon-large"></i> Our Services</a></li>
 						 <li><a class="link" href="<?php echo home_url(); ?>/#about-a"><i class="icon-pencil icon-large"></i> About</a></li>
     					<li><a class="link" href="<?php echo home_url(); ?>/#who-a"><i class="fa-user icon-large"></i> Who</a></li>
-    					<li><a class="link" href= "<?php echo home_url(); ?>/#contact-a"><i class="icon-envelope icon-large"></i> Contact Us</a></li>
+    					<li><a class="link" href= "<?php echo home_url(); ?>/#contact-a"><i class="icon-phone icon-large"></i> Contact Us</a></li>
 					</nav>
 
 				</div> <!-- end #inner-header -->
@@ -141,7 +141,7 @@ Template Name: KFAS products page
 	    	<li><a class="link" href="<?php echo home_url(); ?>/#services-a"><i class="icon-book"></i> Our Services</a></li>
 	        <li><a class="link" href="<?php echo home_url(); ?>/#about-a"><i class="icon-pencil"></i> About</a></li>
 	    	<li><a class="link" href="<?php echo home_url(); ?>/#who-a"><i class="icon-user"></i> Who</a></li>
-	        <li><a class="link" href= "<?php echo home_url(); ?>/#contact-a"><i class="icon-envelope"></i> Contact Us</a></li>
+	        <li><a class="link" href= "<?php echo home_url(); ?>/#contact-a"><i class="icon-phone"></i> Contact Us</a></li>
 	    	</ul>
 	    </nav>
 	 

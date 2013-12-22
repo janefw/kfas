@@ -19,16 +19,20 @@ Template Name: KFAS Single Home Page
 <a class="anchor" id="intro-a"></a>
 <!--<h2>What we do</h2>-->
 	<div class="sixcol first intro">
-			
+		<img class="home-image" src="<?php echo get_template_directory_uri(); ?>/images/home-turret.png" / alt="Our office turret" height="400" width="827">
 	</div>
 
 	<div class="sixcol last intro">
 		<h2>Accounting services, simple, straighforward and easy.</h2>
 		<p>We are a Matlock based chartered accountancy practice. </p>
-		<p>Get in touch with us today to arrange your FREE consultation and meet us in person.</p>
+		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation and meet us in person.</p>
 		<div id="call-to-action">
+			<div class= "sixcol first buttons clearfix">
 			<a class="call-button talk" href="#contact-a">Talk to us</a>
+			</div>
+			<div class="sixcol last buttons clearfix">
 			<a class="call-button more" href="#services-a">Find out more</a>
+			</div>
 		</div>
 	</div>
 
@@ -159,16 +163,16 @@ Template Name: KFAS Single Home Page
 	
 	<a class="anchor" id="contact-a"></a>
 	<h2>Get in touch</h2>
-	<p>Give us a call to arrange your free consultation.</p>
+	<p>Give us a call to arrange your <span style="color:#cc3399; font-weight: bold;">FREE</span> consultation.</p>
 	<div class="sixcol first contact-info">
-		<p><span style="color: #cc3399; font-weight: bold;">Call us:</span> on 01629 55255</p>
-		<p><span style="color: #cc3399; font-weight: bold;">Email us:</span> at <a href="mailto:enquiries@kfaccounting.co.uk">enquiries@kfaccounting.co.uk </a></p>
-	<p><span style="color: #cc3399; font-weight: bold;">Visit us:</span> at 81 Dale Road, Matlock, DE4 3LU</p>
-	<p style="text-align: left;"><iframe src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14&amp;output=embed" height="350" width="350" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><br />
+	<p><iframe src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14&amp;output=embed" height="350" width="350" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><br />
 	<p><small><a style="color: #0000ff; text-align: left;" href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14">View Larger Map</a></small></p>
 	</div>
  	
 	<div class="sixcol last contact">
+	<p><span style="color: #cc3399; font-weight: bold;">Call us:</span> on 01629 55255</p>
+	<p><span style="color: #cc3399; font-weight: bold;">Email us:</span> at <a href="mailto:enquiries@kfaccounting.co.uk">enquiries@kfaccounting.co.uk </a></p>
+	<p><span style="color: #cc3399; font-weight: bold;">Visit us:</span> at 81 Dale Road, Matlock, DE4 3LU</p>
 	<p>You can find our offices in Dale Road in the centre of Matlock.</p>
 	<p>If coming from Derby and Matlock Bath on the A6, the office entrance is just before Old Derwent Avenue on the right, between Monks Bar and the Chinese.</p>
 	<p>Coming from Bakewell on the A6 the office office enterance is on the left.</p>

@@ -12,7 +12,7 @@
 	    	<li><a class="link" href="#services-a"><i class="icon-book"></i> Our Services</a></li>
 	        <li><a class="link" href="#about-a"><i class="icon-pencil"></i> About</a></li>
 	    	<li><a class="link" href="#who-a"><i class="icon-user"></i> Who</a></li>
-	        <li><a class="link" href= "#contact-a"><i class="icon-envelope"></i> Contact Us</a></li>
+	        <li><a class="link" href= "#contact-a"><i class="icon-phone"></i> Contact Us</a></li>
 	    	</ul>
 	    </nav>
 	 
