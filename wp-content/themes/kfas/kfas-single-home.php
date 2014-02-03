@@ -12,12 +12,14 @@ Template Name: KFAS Single Home Page
 	
 <section id="introduction">		
 
-<div id="main" class="twelvecol first clearfix" role="main">
+<!--<div id="main" class="twelvecol first clearfix" role="main">-->
 
 <!--start of intro section, two columns-->
 <div class="intro-container clearfix page">	
 <a class="anchor" id="intro-a"></a>
 <!--<h2>What we do</h2>-->
+	<div class="section-container wrap">
+	
 	<div class="sixcol first intro">
 		<img class="home-image" src="<?php echo get_template_directory_uri(); ?>/images/home-turret.png" / alt="Our office turret" height="400" width="827">
 	</div>
@@ -26,6 +28,7 @@ Template Name: KFAS Single Home Page
 		<h2>Accounting services, simple, straighforward and easy.</h2>
 		<p>We are a Matlock based chartered accountancy practice. </p>
 		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation and meet us in person.</p>
+		
 		<div id="call-to-action">
 			<div class= "sixcol first buttons clearfix">
 			<a class="call-button talk" href="#contact-a">Talk to us</a>
@@ -34,9 +37,13 @@ Template Name: KFAS Single Home Page
 			<a class="call-button more" href="#services-a">Find out more</a>
 			</div>
 		</div>
+	
+	</div>
+	
 	</div>
 
 </div>
+
 </section>
 <!--end of intro section-->
 
@@ -45,6 +52,9 @@ Template Name: KFAS Single Home Page
 
 <div class="services-container clearfix page">
 <a class="anchor" id="services-a"></a>
+
+<div class="section-container wrap">
+
 <h2>How we can help</h2>
 
 
@@ -86,6 +96,7 @@ Template Name: KFAS Single Home Page
 						
 						</div>									
 	</div>
+	</div>
 </section>
 <!--end of SERVICES section, three columns -->
 
@@ -96,6 +107,9 @@ Template Name: KFAS Single Home Page
 	
 	<div class="twelvecol first about">
 	<a class="anchor" id="about-a"></a>
+	
+	<div class="section-container wrap">
+
 	<h2>Our approach</h2>
 	<h3>Money matters made simple, tailored to your needs.</h3>
 	<!--<h3>We think you've probably got enough to worry about, so we'll fit in with you</h3>-->
@@ -122,6 +136,8 @@ Template Name: KFAS Single Home Page
 	</p>
 	</div>	
 
+</div>
+
 </div> 
 </section>
 <!--end of WHY section, one columns -->
@@ -129,6 +145,8 @@ Template Name: KFAS Single Home Page
 <section id="who">
 <div class="who-container clearfix page">
 	
+	<div class="section-container wrap">
+
 	<div class="twelvecol first about">
 	<a class="anchor" id="who-a"></a>
 	<h2>Who we are</h2>
@@ -152,6 +170,8 @@ Template Name: KFAS Single Home Page
 		</div>
 	</div>	
 
+</div>
+
 </div> 
 </section>
 <!--end of WHY section, one columns -->
@@ -162,6 +182,9 @@ Template Name: KFAS Single Home Page
 <div class ="contact-container clearfix page">
 	
 	<a class="anchor" id="contact-a"></a>
+
+	<div class="section-container wrap">
+
 	<h2>Get in touch</h2>
 	<p>Give us a call to arrange your <span style="color:#cc3399; font-weight: bold;">FREE</span> consultation.</p>
 	<div class="sixcol first contact-info">
@@ -179,6 +202,8 @@ Template Name: KFAS Single Home Page
 	<p>Car parking is available in the parking area to the front of the shops adjacent to the office, or in the public car park on Old Derwent Avenue.</p>			
 	</div>				
   
+	</div>
+
 </div>
 </section>
 
