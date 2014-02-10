@@ -41,7 +41,7 @@ Template Name: KFAS Single Home Page
 			<a class="call-button talk" href="#contact-a">Contact us</a>
 			</div>
 			<div class="sixcol last buttons-mobile clearfix">
-			<a class="call-button more" href="#services-a">Find out more</a>
+			<a class="call-button more" href="#services-a">More info</a>
 			</div>
 
 		</div>

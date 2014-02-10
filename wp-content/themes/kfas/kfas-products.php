@@ -152,7 +152,9 @@ Template Name: KFAS products page
 								
 	<div class="fourcol footer-section">
 		<p>
-		<img src="<?php echo get_template_directory_uri(); ?>/library/images/PCH_pink.jpg" alt="CIMA" width="150" height="83" />
+		<a href="http://www.cimaglobal.com/">
+			<img src="<?php echo get_template_directory_uri(); ?>/library/images/PCH_pink.jpg" alt="CIMA" width="150" height="83">
+		</a>
 		</p>
 	</div>
 					
