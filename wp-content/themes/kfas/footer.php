@@ -13,6 +13,7 @@
 	        <li><a class="link" href="#about-a"><i class="icon-pencil"></i> About</a></li>
 	    	<li><a class="link" href="#who-a"><i class="icon-user"></i> Who</a></li>
 	        <li><a class="link" href= "#contact-a"><i class="icon-phone"></i> Contact Us</a></li>
+	        <li><a class="link" href= "<?php echo home_url(); ?>/jobs"><i class="icon-envelope"></i> Jobs</a></li>
 	    	</ul>
 	    </nav>
 	 
