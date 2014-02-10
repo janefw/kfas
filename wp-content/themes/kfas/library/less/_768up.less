@@ -24,76 +24,24 @@ body {
 text-shadow:0 0 1px transparent;
     }
 
-.primarycontent {
-    float: left;
-    margin: 0 0 50px 0px;
-    width: 70%;
-    position: relative;
-}
-
-.secondarycontent {
-    display: block;
-    float: left;
-    margin: 75px 0 50px 50px;
-    width: 20%;
-}
-
 /***************************
 HOME PAGE IMAGE
 ****************************/
- .home-image {
-        display:block;
-        width: 100%;
-        position: relative;
-        border: 1px solid @mid-blue;
-    border-radius: 4px 4px 4px 4px;
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3), -1px -1px 0 #D4D4D4, 1px -1px 0 #D4D4D4, 0 1px 0 #DFDFDF;
-    margin-top: 20px;
-          }
-    
-.home-image-text-mobile {
-    display:none;
-}
+ 
+.home-image {
+        display:none;
+        }
 
 .home-text {
-	display: block;
-	position: absolute;
-	top: 0px; 
-   left: 30px; 
-   width: 30%;
-
-   }
-
-  .page {
-	min-height: 650px;
-	padding-top: 50px;
+	display: none;
 	}
 
-#call-to-action {
-padding-bottom: 0px;
-
-.buttons-mobile {
-	display: none;
+.home-image-text-mobile {
+    display:block;
+    padding: 20px;
+    color: #ffffff;
 }
-
-.buttons {
-	display: block;
-	padding-bottom: 0px;
-
-.talk {
- 	float: left;
- 	width: 170px;
- 		}
-
- 	.more {
- 	float: right;
- 	width: 190px;
- 	}
-
-}
-}
-
-
+ 
 /*********************
 LAYOUT & GRID STYLES
 *********************/
@@ -118,16 +66,46 @@ i {
 /*********************
 NAVIGATION STYLES
 *********************/
-.mobile-menu {
-    display:none;
+#main-nav {
+    display: none;
 }
 
-#main-nav {
-    font-family: "OpenSans-Light", @sans-serif;
-    font-weight: 500;
+.mobile-menu {
     display: block;
-    margin-top: 45px;
+    margin-top: 10px;
+    right: 20px;
+    position: absolute;
+    
+        a  {
+    color: white;
+     background: none repeat scroll 0 0 @mid-blue;
+
+    /* on hover */
+	&:hover, &:focus {
+		color: white;
+         background: none repeat scroll 0 0 @purple;
+	}
+
+	/* on click */
+	&:active {	}
     }
+}
+
+.mobile-nav {
+    background: none repeat scroll 0 0 @mid-blue;
+    border: 1px solid @dark-blue;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 0 1px white inset;
+    color: white;
+    display: block;
+    float: right;
+    font-weight: 300;
+    margin: 5px 0 0;
+    padding: 7px 14px;
+    text-decoration: none;
+    /*text-shadow: 0 -1px 1px #12669B, 0 1px 1px #1678B7;*/
+    
+}
 
 .nav {
     /*background: #eee;*/
