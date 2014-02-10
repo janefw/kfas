@@ -14,11 +14,58 @@ so you still want to keep it pretty light and simply expand
 upon your base.less styles.
 
 ******************************************************************/
+@sans-serif:         "Helvetica Neue", Helvetica, Arial, sans-serif; 
+@serif:              "Georgia", Cambria, Times New Roman, Times, serif; 
 
+@dark-blue:        #333366;
+@purple:           #cc3399;
+@mid-blue:         #336699;
 	
 /*********************
 NAVIGATION STYLES
 *********************/
+#main-nav {
+    display: none;
+}
+
+.mobile-menu {
+    display: block;
+    margin-top: 10px;
+    right: 20px;
+    position: absolute;
+    
+        a  {
+    color: white;
+     background: none repeat scroll 0 0 #336699;
+
+    /* on hover */
+	&:hover, &:focus {
+		color: white;
+         background: none repeat scroll 0 0 @purple;
+	}
+
+	/* on click */
+	&:active {	}
+    }
+}
+
+.mobile-nav {
+    background: none repeat scroll 0 0 #336699;
+    border: 1px solid #333366;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 0 1px white inset;
+    color: white;
+    display: block;
+    float: right;
+    font-weight: 300;
+    margin: 5px 0 0;
+    padding: 7px 14px;
+    text-decoration: none;
+    /*text-shadow: 0 -1px 1px #12669B, 0 1px 1px #1678B7;*/
+    
+}
+
+
 
 .nav {}
 
@@ -65,6 +112,19 @@ NAVIGATION STYLES
 			}  /* end current highlighters */
 		} /* end .menu ul */
 	} /* end .menu */
+
+/**************************
+HOME PAGE BUTTONS
+**************************/
+
+.buttons {
+	display: block;
+	}
+
+.buttons-mobile {
+	display: none;
+}
+
 
 /*********************
 POSTS & CONTENT STYLES

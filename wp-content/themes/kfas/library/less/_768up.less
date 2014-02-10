@@ -16,6 +16,9 @@ come into play. Have fun!
 
 @dark-blue:        #333366;
 @purple:           #cc3399;
+
+@sans-serif:         "Helvetica Neue", Helvetica, Arial, sans-serif; 
+@serif:              "Georgia", Cambria, Times New Roman, Times, serif; 
 /*********************
 GENERAL STYLES
 *********************/
@@ -28,20 +31,14 @@ text-shadow:0 0 1px transparent;
 HOME PAGE IMAGE
 ****************************/
  
-.home-image {
-        display:none;
-        }
-
-.home-text {
+#large-home {
 	display: none;
-	}
-
-.home-image-text-mobile {
-    display:block;
-    padding: 20px;
-    color: #ffffff;
 }
- 
+
+#mobile-home {
+	display: block;
+}
+
 /*********************
 LAYOUT & GRID STYLES
 *********************/
@@ -78,7 +75,7 @@ NAVIGATION STYLES
     
         a  {
     color: white;
-     background: none repeat scroll 0 0 @mid-blue;
+     background: none repeat scroll 0 0 #336699;
 
     /* on hover */
 	&:hover, &:focus {
@@ -92,8 +89,8 @@ NAVIGATION STYLES
 }
 
 .mobile-nav {
-    background: none repeat scroll 0 0 @mid-blue;
-    border: 1px solid @dark-blue;
+    background: none repeat scroll 0 0 #336699;
+    border: 1px solid #333366;
     border-radius: 3px 3px 3px 3px;
     box-shadow: 0 0 1px white inset;
     color: white;
@@ -108,8 +105,7 @@ NAVIGATION STYLES
 }
 
 .nav {
-    /*background: #eee;*/
-	border: 0;
+    border: 0;
 
 	li {
 		float: left;

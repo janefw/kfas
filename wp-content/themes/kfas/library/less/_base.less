@@ -27,6 +27,37 @@ and will be used across all viewports.
 
 ******************************************************************/
 
+@base-url: "locahost/kfas/wp-content/themes/kfas";
+@base-url: "http://www.kfaccounting.co.uk/wp-content/themes/kfas/";
+
+@alert-yellow:      #ebe16f;
+@alert-red:         #fbe3e4;
+@alert-green:       #e6efc2;
+@alert-blue:        #d5edf8;
+
+@black:             #000;
+@white:             #fff;
+
+@bones-pink:        #f01d4f;
+@bones-blue:        #1990db;
+
+@dark-blue:        #333366;
+@mid-blue:         #336699;
+@light-blue:       #6699cc;
+@purple:           #cc3399;
+@background:         white;
+@highlight-bar:     #cccccc;
+@blue-sky:          #6699ff;
+@dark-grey:         #1c1c1c;
+@home-blue: 		#7EC6E8;
+@home-blue: 		#5DABD0;
+
+@link-color:        @light-blue;
+@link-hover:        @purple;
+
+@sans-serif:         "Helvetica Neue", Helvetica, Arial, sans-serif; 
+@serif:              "Georgia", Cambria, Times New Roman, Times, serif; 
+
 /*********************
 01. GENERAL STYLES
 *********************/
@@ -503,6 +534,10 @@ HOME PAGE STYLE
 	}
 } 
 
+.page {
+	padding-top:50px;
+}
+
 a.anchor {
 display: block; 
 position: relative; 
@@ -536,18 +571,12 @@ img {
 }
 
 
-.home-image {
-        display:none;
-        }
-
-.home-text {
+#large-home {
 	display: none;
-	}
+}
 
-.home-image-text-mobile {
-    display:block;
-    padding: 20px;
-    color: #ffffff;
+#mobile-home {
+	display: block;
 }
 
 .intro-container {
@@ -759,7 +788,7 @@ h2 {
 
 .page {
 	margin-top: 0px;
-	padding-top: 30px;
+	padding-top: 50px;
 }
 
 #content {

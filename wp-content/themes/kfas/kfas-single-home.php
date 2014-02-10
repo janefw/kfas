@@ -18,13 +18,35 @@ Template Name: KFAS Single Home Page
 <div class="intro-container clearfix page">	
 <a class="anchor" id="intro-a"></a>
 <!--<h2>What we do</h2>-->
+	
 	<div class="section-container wrap">
 	
-	<div class="sixcol first intro">
+	<div id="large-home"><!--The full screen version with picture-->
+		<div class="sixcol first intro">
 		<img class="home-image" src="<?php echo get_template_directory_uri(); ?>/images/home-turret.jpg" / alt="Our office turret" height="413" width="550">
 	</div>
 
 	<div class="sixcol last intro">
+		<h2>Local accountants for small businesses and individuals.</h2>
+		<p>We are a Matlock based chartered accountancy practice offering simple, straightforward, easy accounting services. </p>
+		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation and meet us in person.</p>
+		
+		<div id="call-to-action">
+			<div class= "sixcol first buttons clearfix">
+			<a class="call-button talk" href="#contact-a">Contact us</a>
+			</div>
+			<div class="sixcol last buttons clearfix">
+			<a class="call-button more" href="#services-a">Find out more</a>
+			</div>
+
+		</div>
+	
+	</div>	
+	</div>
+
+	<div id="mobile-home"><!--The small screen version without picture-->
+	
+		<div class="twelvecol first intro">
 		<h2>Local accountants for small businesses and individuals.</h2>
 		<p>We are a Matlock based chartered accountancy practice offering simple, straightforward, easy accounting services. </p>
 		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation and meet us in person.</p>
@@ -44,8 +66,9 @@ Template Name: KFAS Single Home Page
 			<a class="call-button more" href="#services-a">More info</a>
 			</div>
 
-		</div>
+	</div>
 	
+	</div>	
 	</div>
 	
 	</div>
