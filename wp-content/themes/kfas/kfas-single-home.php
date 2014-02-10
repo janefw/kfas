@@ -21,21 +21,29 @@ Template Name: KFAS Single Home Page
 	<div class="section-container wrap">
 	
 	<div class="sixcol first intro">
-		<img class="home-image" src="<?php echo get_template_directory_uri(); ?>/images/home-turret.png" / alt="Our office turret" height="400" width="827">
+		<img class="home-image" src="<?php echo get_template_directory_uri(); ?>/images/home-turret.jpg" / alt="Our office turret" height="413" width="550">
 	</div>
 
 	<div class="sixcol last intro">
-		<h2>Accounting services, simple, straighforward and easy.</h2>
-		<p>We are a Matlock based chartered accountancy practice. </p>
+		<h2>Local accountants for small businesses and individuals.</h2>
+		<p>We are a Matlock based chartered accountancy practice offering simple, straightforward, easy accounting services. </p>
 		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation and meet us in person.</p>
 		
 		<div id="call-to-action">
 			<div class= "sixcol first buttons clearfix">
-			<a class="call-button talk" href="#contact-a">Talk to us</a>
+			<a class="call-button talk" href="#contact-a">Contact us</a>
 			</div>
 			<div class="sixcol last buttons clearfix">
 			<a class="call-button more" href="#services-a">Find out more</a>
 			</div>
+
+			<div class= "sixcol first buttons-mobile clearfix">
+			<a class="call-button talk" href="#contact-a">Contact us</a>
+			</div>
+			<div class="sixcol last buttons-mobile clearfix">
+			<a class="call-button more" href="#services-a">Find out more</a>
+			</div>
+
 		</div>
 	
 	</div>
@@ -56,8 +64,9 @@ Template Name: KFAS Single Home Page
 <div class="section-container wrap">
 
 <h2>How we can help</h2>
-
-
+<h3 class="services-description">We can help with both Business and Personal accounts</h3>
+<h3 style="margin-bottom: 0px; color:#cc3399;" class="services-description">Personal accounts - <a href="<?php echo home_url(); ?>/personal-accounts/">find out more</a></h3>
+<h3 style="margin-bottom: 0px; color:#cc3399;"class="services-description">Business Services</h3>
 						<div class="fourcol first services">
 						<h5><i class="icon-lightbulb icon-4x pull-left icon-muted" style="color:#cc3399;"></i>New Business Kick-Starter<br></h5>
 						<!--<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>There is so much to understand and get organised. I’m getting stressed. <i class="icon-quote-right" style="color:#cc3399;"></i></p>-->
@@ -84,7 +93,7 @@ Template Name: KFAS Single Home Page
 						<p>Get in touch about our finance first aid package.</p>
 						</div>
 
-						<div class="fourcol services last">
+						<div class="fourcol services last clearfix">
 						<h5><i class="icon-bar-chart icon-4x pull-left icon-muted" style="color:#cc3399;"></i>Business Support</h5>
 						<!--<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I've outgrown the way I used to do things, I need to make some changes. <i class="icon-quote-right" style="color:#cc3399;"></i></p>-->
 						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I need some regular support with my finances and returns. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
@@ -93,9 +102,9 @@ Template Name: KFAS Single Home Page
 							<a class="startup-button" href="<?php echo home_url(); ?>/business-support/">I need ongoing support</a>
 						</p>
 						<p>Chat about our business accounting and taxation services.</p>
-						
-						</div>									
-	</div>
+						</div>				
+
+</div>
 	</div>
 </section>
 <!--end of SERVICES section, three columns -->

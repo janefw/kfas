@@ -316,6 +316,9 @@ and more scalable.
     background: @blue-sky;
     }
     
+
+
+
 } /* end #content*/
 
 		.hentry {
@@ -535,8 +538,7 @@ img {
 
 .home-image {
         display:none;
-        /*border-bottom: 1px solid #336699;*/
-       }
+        }
 
 .home-text {
 	display: none;
@@ -560,6 +562,10 @@ img {
 	text-align: center;
 	font-size: 1.125em;
 
+	h2 {
+	margin-top: 0px;
+	}
+
 	.call-button {
 
 	}
@@ -570,6 +576,7 @@ width: 70%;
 margin-top: 50px;
 margin-left: auto;
 margin-right: auto;
+padding-bottom: 20px;
 
 a.call-button {
 background: none repeat scroll 0 0 @mid-blue;
@@ -598,20 +605,22 @@ a.call-button:hover {
 }
 
 .buttons {
-	padding-bottom: 10px;
-}
+	display: none;
+	}
 
+.buttons-mobile {
+	display: block;
+	padding-bottom: 20px;
+	
 .talk {
- 	float: left;
- 	width: 170px;
- 		}
-
- 	.more {
- 	float: right;
- 	width: 170px;
- 	
+ 	min-width: 190px;
+ 	margin-bottom: 30px;
  	}
 
+ .more {
+ 	min-width: 190px;
+ 	}
+}
 }
 
 .services-container {
@@ -635,6 +644,10 @@ a.call-button:hover {
 		}
 
 }
+
+.services-description {
+	text-align: center;
+		}
 
 a.startup-button {
 background: none repeat scroll 0 0 #ccc;
@@ -727,9 +740,6 @@ line-height: 2em;
 	}
 
 }
-
-	
-
 
 /********************
 PRODUCT PAGES STYLE

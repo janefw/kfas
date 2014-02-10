@@ -86,6 +86,7 @@ Template Name: KFAS products page
 	<div id="inner-content" class="wrap clearfix">			
 		
 		<div id="main" class= "twelvecol first clearfix page" role="main">
+		<p style="text-align:right; margin-bottom:0px; text-decoration:none;"><a href="<?php echo home_url(); ?>/#services-a">Back</a></p>
 		
 		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 				<article id="post-<?php the_ID(); ?>" <?php post_class('clearfix'); ?> role="article" itemscope itemtype="http://schema.org/BlogPosting">
