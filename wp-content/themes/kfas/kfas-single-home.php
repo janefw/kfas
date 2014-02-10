@@ -99,6 +99,10 @@ Template Name: KFAS Single Home Page
 						<p>
 							<a class="startup-button" href="<?php echo home_url(); ?>/business-kick-starter/">I'm starting out</a>
 						</p>
+
+						<p>
+							<a class="startup-button-768" href="<?php echo home_url(); ?>/business-kick-starter/">More info</a>
+						</p>
 						
 						<p>Come and talk about our start-up services and new business package.</p>
 						</div>
@@ -113,16 +117,25 @@ Template Name: KFAS Single Home Page
 							<a class="startup-button" href="<?php echo home_url(); ?>/finance-first-aid/">I need urgent help</a>
 						</p>
 
+						<p>
+							<a class="startup-button-768" href="<?php echo home_url(); ?>/finance-first-aid/">More info</a>
+						</p>
+
+
 						<p>Get in touch about our finance first aid package.</p>
 						</div>
 
 						<div class="fourcol services last clearfix">
 						<h5><i class="icon-bar-chart icon-4x pull-left icon-muted" style="color:#cc3399;"></i>Business Support</h5>
-						<!--<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I've outgrown the way I used to do things, I need to make some changes. <i class="icon-quote-right" style="color:#cc3399;"></i></p>-->
 						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I need some regular support with my finances and returns. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
 						<p>Whether you need work out your VAT, CIS, submit your annual returns or keep on top of your accounts more regularly we can help. We can provide advice, support and services as your business grows.</p>
+						
 						<p>
 							<a class="startup-button" href="<?php echo home_url(); ?>/business-support/">I need ongoing support</a>
+						</p>
+
+						<p>
+							<a class="startup-button-768" href="<?php echo home_url(); ?>/business-support/">More info</a>
 						</p>
 						<p>Chat about our business accounting and taxation services.</p>
 						</div>				
