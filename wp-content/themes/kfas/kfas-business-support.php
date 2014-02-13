@@ -262,7 +262,7 @@ Template Name: KFAS business support
 	<nav role="navigation" class="nav service">
 	<ul class="nav">
 		<li><a href="http://www.facebook.com/KFAccountingServices/"><i class="icon-facebook-sign icon-2x"></i> Facebook</a></li>
-		<li><a href="http://www.twitter.com/janefalcwhite/"><i class="icon-twitter-sign icon-2x"></i> Twitter</a></li>
+		<li><a href="http://www.twitter.com/kfaccounting/"><i class="icon-twitter-sign icon-2x"></i> Twitter</a></li>
 	</ul>
 	</nav>
 	
