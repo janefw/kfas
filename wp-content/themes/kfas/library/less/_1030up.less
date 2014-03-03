@@ -19,11 +19,11 @@ be seen on the Desktop.
 /*********************
 NAVIGATION STYLES
 *********************/
-.mobile-menu {
+.mobile-menu {        /* hide mobile version menu icon */
     display:none;
 }
 
-#main-nav {
+#main-nav {          /* show full sized version navigation bar */
     font-family: "OpenSans-Light", @sans-serif;
     font-weight: 500;
     display: block;
@@ -31,18 +31,18 @@ NAVIGATION STYLES
     }
 
 /***************************
-HOME PAGE IMAGE
+HOME PAGE IMAGE - FULL SIZED VERSION
 ****************************/
  
- #large-home {
+ #large-home {              /* show home page image */
   display: block;
 }
 
-#mobile-home {
+#mobile-home {              /* hide mobile version without image */
   display: none;
 }
 
- .home-image {
+ .home-image {              /* style home page image */
         display:block;
         width: 100%;
         position: relative;
@@ -52,11 +52,11 @@ HOME PAGE IMAGE
     margin-top: 20px;
           }
     
-.home-image-text-mobile {
+.home-image-text-mobile {    /* hide mobile version text */
     display:none;
 }
 
-.home-text {
+.home-text {                 /*full sized version home text */
 	display: block;
 	position: absolute;
 	top: 0px; 
@@ -64,15 +64,15 @@ HOME PAGE IMAGE
    width: 30%;
    }
 
-  .page {
+  .page {                   /* full version page section styling to give sections a min height*/
 	min-height: 650px;
 	padding-top: 50px;
 	}
 
-#call-to-action {
+#call-to-action {           /* full sized version call to action buttons */
 padding-bottom: 0px;
 
-.buttons-mobile {
+.buttons-mobile {           /* hide mobile version of buttons */
 	display: none;
 }
 
@@ -93,6 +93,8 @@ padding-bottom: 0px;
 }
 }
 
+
+/** check whether any of this below is needed??? **/
 .services {
   min-height: 300px;
 }

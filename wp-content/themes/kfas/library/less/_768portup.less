@@ -16,7 +16,7 @@ come into play. Have fun!
 
 @dark-blue:        #333366;
 @purple:           #cc3399;
-@mid-blue:         #336699;
+
 @sans-serif:         "Helvetica Neue", Helvetica, Arial, sans-serif; 
 @serif:              "Georgia", Cambria, Times New Roman, Times, serif; 
 /*********************
@@ -28,43 +28,17 @@ text-shadow:0 0 1px transparent;
     }
 
 /***************************
-HOME PAGE STYLES
+HOME PAGE STYLES - MOBILE VERSION
 ****************************/
  
-#large-home {              /* show home page image */
-  display: block;
+#large-home { 			/*hide full-screen version with home image*/
+	display: none;
 }
 
-#mobile-home {              /* hide mobile version without image */
-  display: none;
-}
-
-.home-image {              /* style home page image */
-        display:block;
-        width: 100%;
-        position: relative;
-        border: 1px solid @mid-blue;
-    border-radius: 4px 4px 4px 4px;
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3), -1px -1px 0 #D4D4D4, 1px -1px 0 #D4D4D4, 0 1px 0 #DFDFDF;
-    margin-top: 20px;
-          }
-    
-.home-image-text-mobile {    /* hide mobile version text */
-    display:none;
-}
-
-.home-text {                 /*full sized version home text */
+#mobile-home {			/*show mobile version without home image*/
 	display: block;
-	position: absolute;
-	top: 0px; 
-   left: 30px; 
-   width: 30%;
-   }
+}
 
-  .page {					/* full version page section styling to give sections a min height*/
-	min-height: 650px;
-	padding-top: 50px;
-	}
 
 /** check whether any of this below is needed??? **/
 
@@ -125,19 +99,48 @@ i {
 }
 }
 /*********************
-NAVIGATION STYLES
+NAVIGATION STYLES - MOBILE VERSION
 *********************/
-
-.mobile-menu {        /* hide mobile version menu icon */
-    display:none;
+#main-nav {
+    display: none;			/*hide navigation bar*/
 }
 
-#main-nav {          /* show full sized version navigation bar */
-    font-family: "OpenSans-Light", @sans-serif;
-    font-weight: 500;
+.mobile-menu {				/*show mobile version of menu*/
     display: block;
-    margin-top: 45px;
+    margin-top: 10px;
+    right: 20px;
+    position: absolute;
+    
+        a  {
+    color: white;
+     background: none repeat scroll 0 0 #336699;
+
+    /* on hover */
+	&:hover, &:focus {
+		color: white;
+         background: none repeat scroll 0 0 @purple;
+	}
+
+	/* on click */
+	&:active {	}
     }
+}
+
+.mobile-nav {
+    background: none repeat scroll 0 0 #336699;
+    border: 1px solid #333366;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 0 1px white inset;
+    color: white;
+    display: block;
+    float: right;
+    font-weight: 300;
+    margin: 5px 0 0;
+    padding: 7px 14px;
+    text-decoration: none;
+    /*text-shadow: 0 -1px 1px #12669B, 0 1px 1px #1678B7;*/
+    
+}
 
 .nav {
     border: 0;

@@ -11,19 +11,22 @@ and will be used across all viewports.
 
 ------------ MAP ------------
 
-01. GENERAL STYLES
-02. WORDPRESS BODY CLASSES
+01. GENERAL STYLES - updated
+02. WORDPRESS BODY CLASSES - not updated
 03. LAYOUT & GRID STYLES
 04. LINK STYLES
 05. H1, H2, H3, H4, H5 STYLES
-06. HEADER SYTLES
-07. NAVIGATION STYLES
+06. HEADER SYTLES - updated
+07. NAVIGATION STYLES - The menu and navigation
 08. POSTS & CONTENT STYLES
-09. PAGE NAVI STYLES
-10. COMMENT STYLES
-11. COMMENT FORM STYLES
-12. SIDEBARS & ASIDES
-13. FOOTER STYLES
+  . HOME PAGE STYLES - The important stuff here
+   .PRODUCT PAGE STYLES - new
+   .SERVICE PAGE STYLES - new 
+09. PAGE NAVI STYLES - default
+10. COMMENT STYLES - default
+11. COMMENT FORM STYLES - default
+12. SIDEBARS & ASIDES - default
+13. FOOTER STYLES - updated
 
 ******************************************************************/
 
@@ -81,7 +84,7 @@ p{
     hyphens: none;
 }
 /********************
-02. WORDPRESS BODY CLASSES
+02. WORDPRESS BODY CLASSES - This section has not been updated
     style a page via class
 ********************/
 
@@ -234,6 +237,10 @@ h6, .h6 {
 06. HEADER SYTLES
 *********************/
 
+/*
+This is the fixed header with the content scrolling beneath it
+*/
+
 .header {
 
 		position: fixed;
@@ -258,25 +265,16 @@ h6, .h6 {
             }
             
             }
-	#logo {}
-
-	    nav {
-            
-		ul.nav {
-			li {
-				a {}
-
-				&:first-child {}
-
-				&:last-child {}
-			}
-		}
-	}
 }
-
+	
 /*********************
-07. NAVIGATION STYLES
+07. NAVIGATION STYLES - MOBILE
 *********************/
+
+/*
+This is the mobile version of the menu which is shown as an icon and links to the footer.
+Main nav bar does not display at this screen size. 
+*/
 
 /*
 all navs have a .nav class applied via
@@ -332,7 +330,7 @@ and more scalable.
 *********************/
 
 #content {
-	margin-top: 45px;
+	margin-top: 45px; /**so that there is space for the header at the top **/
 	background-color: @background;
     border: 1px solid @mid-blue;
     border-radius: 4px 4px 4px 4px;
@@ -347,7 +345,6 @@ and more scalable.
     background: @blue-sky;
     }
     
-
 
 
 } /* end #content*/
@@ -372,14 +369,7 @@ and more scalable.
             font-size: 1em;
             }
 		}
-        .home-title {
-            color: @dark-blue;
-            text-align: left;
-            font-size: 1.2em;
-            line-height: 1.3em;
-            margin: 0.5em;
-        }
-        
+
 		/* want to style individual post classes? Booya! */
 		.post-id {}         /* post by id (i.e. post-3) */
 		.post {}            /* general post style */
@@ -530,7 +520,6 @@ HOME PAGE STYLE
 
 	section {
 	min-height: 300px;
-	/*margin-bottom: 300px;*/
 	}
 } 
 
@@ -560,7 +549,7 @@ img {
     display:block;
 }
 
-#home-intro {
+#home-intro { 
 	background: #609c04;
 }
 
@@ -571,11 +560,11 @@ img {
 }
 
 
-#large-home {
+#large-home { /*full screen version with the picture hidden*/
 	display: none;
 }
 
-#mobile-home {
+#mobile-home { /*mobile version without picture is shown*/
 	display: block;
 }
 
@@ -600,7 +589,7 @@ img {
 	}
 }
 
-#call-to-action {
+#call-to-action { /** Call to action buttons **/
 width: 70%;
 margin-top: 50px;
 margin-left: auto;
@@ -633,11 +622,11 @@ a.call-button:hover {
 	border-color: #cc3366;
 }
 
-.buttons {
+.buttons { /*Full sized version side by side buttons hidden*/
 	display: none;
 	}
 
-.buttons-mobile {
+.buttons-mobile { /*Mobile buttons on top of each other displayed*/
 	display: block;
 	padding-bottom: 20px;
 	
