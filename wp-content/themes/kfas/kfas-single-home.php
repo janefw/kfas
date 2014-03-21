@@ -203,23 +203,30 @@ Template Name: KFAS Single Home Page
 	<a class="anchor" id="who-a"></a>
 	<h2>Who we are</h2>
 	<p>We’re a chartered accountancy firm based in Matlock. Come and meet us in person.</p>
-	<div class="fourcol first about">
+	<div class="sixcol first about">
 		<h5>Keith Falconer<br>Director</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/keith-icon.png" / alt="Keith Falconer" height="250" width="300">
 		<p>Keith is a CIMA chartered management accountant with more years financial experience than he would care to admit. If you are lucky you might catch his band playing.</p>
 		</div>
 	
-		<div class="fourcol about">
-		<h5>Jane Falconer-White<br>Accounts</h5>
+		<div class="sixcol last about">
+		<h5>Jane Falconer-White<br>Practice Accountant</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/jane-icon.png" / alt="Jane Falconer-White" height="250" width="263">
 		<p>Jane has a background in management consultancy and is currently working through the CIMA exams. She can often be found rounding up her small children in Matlock park.</p>
 		</div>
+
+		<div class="sixcol first about">
+		<h5>Elliott Spence<br>Assistant Practice Accountant</h5>
+		<img src="<?php echo get_template_directory_uri(); ?>/images/elliott-icon.png" / alt="Elliott Spence" height="250" width="291">
+		<p>Elloitt is our newest recruit. He works with Jane on the accounts and is also studying for his AAT exams.</p>
+		</div>
 	
-		<div class="fourcol last about">
-		<h5>Doreen Watt<br>Book keeping</h5>
+		<div class="sixcol last about">
+		<h5>Doreen Watt<br>Book keeping and Admin</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/doreen-icon.png" / alt="Doreen Watt" height="250" width="308">
 		<p>Doreen looks after book keeping and admin. She is also fantastic at making cakes.</p>
 		</div>
+
 	</div>	
 
 </div>
