@@ -1,9 +1,8 @@
-<?php get_header(); ?>
+<?php get_template_part( 'page-parts/head' ); ?>
 			
 			<div id="content">
 
 				<div id="inner-content" class="wrap clearfix">
-			
 					<div id="main" class="eightcol first clearfix" role="main">
 
 						<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
@@ -14,7 +13,7 @@
 							
 									<h1 class="entry-title single-title" itemprop="headline"><?php the_title(); ?></h1>
                   <p class="byline vcard"><?php
-                    printf(__('Posted <time class="updated" datetime="%1$s" pubdate>%2$s</time> by <span class="author">%3$s</span> <span class="amp">&amp;</span> filed under %4$s.', 'bonestheme'), get_the_time('Y-m-j'), get_the_time(get_option('date_format')), bones_get_the_author_posts_link(), get_the_category_list(', '));
+                    printf(__('Posted <time class="updated" datetime="%1$s" pubdate>%2$s</time> - filed under %4$s.', 'bonestheme'), get_the_time('Y-m-j'), get_the_time(get_option('date_format')), bones_get_the_author_posts_link(), get_the_category_list(', '));
                   ?></p>
 						
 								</header> <!-- end article header -->
@@ -51,11 +50,13 @@
 						<?php endif; ?>
 			
 					</div> <!-- end #main -->
-    
-					<?php get_sidebar(); ?>
 
-				</div> <!-- end #inner-content -->
+					 <?php get_sidebar(); ?>
+    
+					</div> <!-- end #inner-content -->
     
 			</div> <!-- end #content -->
 
-<?php get_footer(); ?>
+<!--footer-->
+<?php get_template_part( 'page-parts/foot' ); ?>
+<!--end footer-->

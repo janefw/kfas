@@ -1,11 +1,5 @@
-<!doctype html>
-
-<!--[if lt IE 7]><html <?php language_attributes(); ?> class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html <?php language_attributes(); ?> class="no-js lt-ie9 lt-ie8"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html <?php language_attributes(); ?> class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--> <html <?php language_attributes(); ?> class="no-js"><!--<![endif]-->
-
-	<head>
+<!-- start of header section-->
+<head>
 		<meta charset="utf-8">
 
 		<title><?php wp_title(''); ?></title>
@@ -65,15 +59,13 @@
 					<?php // bloginfo('description'); ?>
 										
 					<nav id="main-nav" class= "navbar" role="navigation">
-					<!--<?php bones_main_nav(); ?>-->
-					 <ul>
-    <li><a class="link" href="#home-a"><i class="icon-home icon-large"></i> Home</a></li>
-    <li><a class="link" href="#services-a"><i class="icon-book icon-large"></i> Our Services</a></li>
-    <li><a class="link" href="#about-a"><i class="fa-coffee icon-large"></i> About</a></li>
-    <li><a class="link" href="#who-a"><i class="fa-user icon-large"></i> Who</a></li>
-    <li><a class="link" href="<?php echo home_url(); ?>/blog"><i class="fa-pencil-square-o icon-large"></i> Blog</a></li>
-    <li><a class="link" href= "#contact-a"><i class="icon-phone icon-large"></i> Contact Us</a></li>
-    </ul>
+						<ul>
+    					<li><a class="link" href="<?php echo home_url(); ?>/#home-a"><i class="icon-home icon-large"></i> Home</a></li>
+						<li><a class="link" href="<?php echo home_url(); ?>/#services-a"><i class="icon-book icon-large"></i> Our Services</a></li>
+						 <li><a class="link" href="<?php echo home_url(); ?>/#about-a"><i class="fa-coffee icon-large"></i> About</a></li>
+    					<li><a class="link" href="<?php echo home_url(); ?>/#who-a"><i class="fa-user icon-large"></i> Who</a></li>
+    					<li><a class="link" href="<?php echo home_url(); ?>/blog"><i class="fa-pencil-square-o icon-large"></i> Blog</a></li>
+    					<li><a class="link" href= "<?php echo home_url(); ?>/#contact-a"><i class="icon-phone icon-large"></i> Contact Us</a></li>
 					</nav>
 
 				</div> <!-- end #inner-header -->
@@ -81,3 +73,5 @@
 			</header> <!-- end header -->
 
 			<div id="container">
+
+<!--end of header section-->

@@ -218,7 +218,7 @@ Template Name: KFAS Single Home Page
 		<div class="sixcol first about">
 		<h5>Elliott Spence<br>Assistant Practice Accountant</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/elliott-icon.png" / alt="Elliott Spence" height="250" width="291">
-		<p>Elloitt is our newest recruit. He works with Jane on the accounts and is also studying for his AAT exams.</p>
+		<p>Elliott is our newest recruit. He works with Jane on the accounts and is also studying for his AAT exams.</p>
 		</div>
 	
 		<div class="sixcol last about">

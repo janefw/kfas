@@ -1,4 +1,4 @@
-			<footer class="footer" role="contentinfo" id="footer-nav">
+<footer class="footer" role="contentinfo" id="footer-nav">
 
 				<div id="inner-footer" class="wrap clearfix">
 					
@@ -8,13 +8,13 @@
 		
 		<nav role="navigation" class="nav" id="nav">
 		    <ul class="nav">
-	    	<li><a class="link" href="#home-a"><i class="icon-home"></i> Home</a></li>
-	    	<li><a class="link" href="#services-a"><i class="icon-book"></i> Our Services</a></li>
-	        <li><a class="link" href="#about-a"><i class="fa fa-coffee"></i> About</a></li>
-	    	<li><a class="link" href="#who-a"><i class="icon-user"></i> Who</a></li>
-	    	<li><a class="link" href="<?php echo home_url(); ?>/blog"><i class="fa fa-pencil-square-o"></i> Blog</a></li>
-	        <li><a class="link" href= "#contact-a"><i class="icon-phone"></i> Contact Us</a></li>
-	        <!--<li><a class="link" href= "<?php echo home_url(); ?>/jobs"><i class="icon-envelope"></i> Jobs</a></li>-->
+	    	<li><a class="link" href="<?php echo home_url(); ?>"><i class="icon-home"></i> Home</a></li>
+	    	<li><a class="link" href="<?php echo home_url(); ?>/#services-a"><i class="icon-book"></i> Our Services</a></li>
+	        <li><a class="link" href="<?php echo home_url(); ?>/#about-a"><i class="fa fa-coffee"></i> About</a></li>
+	    	<li><a class="link" href="<?php echo home_url(); ?>/#who-a"><i class="icon-user"></i> Who</a></li>
+	        <li><a class="link" href="<?php echo home_url(); ?>/blog"><i class="fa fa-pencil-square-o"></i> Blog</a></li>
+	        <li><a class="link" href= "<?php echo home_url(); ?>/#contact-a"><i class="icon-phone"></i> Contact Us</a></li>
+	    	<!--<li><a class="link" href= "<?php echo home_url(); ?>/jobs"><i class="icon-envelope"></i> Jobs</a></li>-->
 	    	</ul>
 	    </nav>
 	 
@@ -49,13 +49,4 @@
 				
 	</div> <!-- end #inner-footer -->
 				
-	</footer> <!-- end footer -->
-		
-	</div> <!-- end #container -->
-		
-	<!-- all js scripts are loaded in library/bones.php -->
-	<?php wp_footer(); ?>
-
-</body>
-
-</html> <!-- end page. what a ride! -->
+	</footer> 
