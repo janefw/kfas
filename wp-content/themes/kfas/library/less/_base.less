@@ -373,7 +373,7 @@ and more scalable.
 
 		/* want to style individual post classes? Booya! */
 		.post-id {}         /* post by id (i.e. post-3) */
-		.post {}            /* general post style */
+		.post {}		    /* general post style */
 		.page {}            /* general article on a page style */
         .attachment {}      /* general style on an attatchment */
 		.sticky {}          /* sticky post style */
@@ -889,6 +889,47 @@ SERVICES PAGE STYLE
        i {
            color: @purple;
        }
+}
+
+
+/********************
+BLOG POST STYLE
+*********************/
+
+.single-post, .blog, .archive {
+
+	margin-top: 0px;
+	padding-top: 50px;
+
+	#main, #sidebar1 {
+	padding-left: 30px;
+	padding-right: 20px;
+	padding-bottom: 30px;
+	}
+
+	.article-header {
+	color: @light-blue;
+	}
+
+	h1, h2, h3 {
+		font-size: 1.5em;
+		}
+
+	.post{
+
+		p {
+		font-size: 80%;
+		line-height: 1.8em;
+		}
+
+		
+	}
+
+	.footer {
+		h5 {
+		font-size: 1.2em;
+		}
+	}
 }
 
 /******************************************************************
