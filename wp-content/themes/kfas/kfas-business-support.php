@@ -178,9 +178,9 @@ Template Name: KFAS business support
 								</ul></p>
 					    </div>
 
-					    <!--Accounting Extra -->
+		<!--Accounting Extra -->
 
-					    <div class="threecol comp">
+					    <div class="threecol comp-extra">
 					    	<p class="comp-title">Accounting Extra</p>
 					    	<div class ="description">
 					    	<p>As your business grows and gets more complicated, you need more support; your year end accounts are more complex, you might be VAT registered, you need advice and guidance during the year. 
