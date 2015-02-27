@@ -98,117 +98,165 @@ Template Name: KFAS business support
 
 		<section class ="entry-content clearfix">
 
-		<P>We can support you with your finance and accounting needs at a level that suits you and your business. </p>
-
-		<p>We provide regular support with returns, accounts, payroll or other financial functions to suit your business needs.</p> 
+		<P>Start by picking your package, then we'll give you a fixed quote based on your particular business needs.</p>
 
 			<section id="comparison">
+
+			<!--Accounting Lite-->
+
 					    <div class="threecol first comp">
 					    	<p class="comp-title"> Accounting Lite </p>
 					    	<div class ="description">
-					    	<p>The absolute bare bones accounting service. Suitable for very simple accounts such as basic personal or landlords accounts, sole traders and companies with few transactions.</p> 
-							<p>Business accounts must already be in an accounting package.</p> 
+					    	<p>The absolute bare bones accounting service. Suitable for very simple accounts such as landlords accounts or sole traders and companies with few transactions.</p> 
+							<p>Business accounts must already be in an accounting package or summarised for the year.</p> 
 							</div>
+							
 							<div class = "includes">
 							<p><strong>Includes:</strong>
 								<ul>
-								<li><i class="fa fa-check"></i>One set of annual accounts</li>
-								<li><i class="fa fa-check"></i>One year end tax return</li>
-								<li><i class="fa fa-check"></i>One annual return (if Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Annual review meeting</li>
-								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
+								<li><i class="fa fa-check"></i>One set of year end accounts</li>
+								<li><i class="fa fa-check"></i>One personal or corporation tax return</li>
+								<li><i class="fa fa-check"></i>Review by email</li>
+								<li><i class="fa fa-check"></i>Filing of return</li>
+								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
 								</ul></p>
 							</div>
-								<p><strong>Price from: £200</strong></p>
+								
+								
+								<p><strong>&nbsp;</strong></p>
+								<p><strong>&nbsp;</strong></p>
+								<p><strong>From £200 per year</strong></p>
+								<p><strong>&nbsp;</strong></p>
+								<p><strong>&nbsp;</strong></p>
 
-								<p><strong>Extras:</strong>
+								<p><strong>Optional extras:</strong>
 								<ul>
-								<li><i class="fa fa-star"></i>Book keeping work</li>
-								<li><i class="fa fa-star"></i>Extra returns e.g. personal tax return</li>
+								<li><i class="fa fa-star"></i>Annual return for Ltd Co</li>
+								<li><i class="fa fa-star"></i>Payroll</li>
+								<li><i class="fa fa-star"></i>Additional personal tax return</li>
+								<li><i class="fa fa-star"></i>Year round advice and guidance</li>
 								</ul>
 							</p>
 					    </div>
+
+			<!--Accounting Basics-->
 
 					    <div class="threecol comp">
 					    	<p class="comp-title">Accounting Basics</p>
 					    	<div class ="description">
-					    	<p>This is ideal for sole traders, small limited companies and new starters. The business is growing and you need a bit more regular support.
+					    	<p>This is ideal for small sole traders / limited companies and new starters. The business is small but growing.
 					    	</p>
 					    	</div>
+							
 							<div class = "includes">
 							<p><strong>Includes:</strong>
 								<ul>
-								<li><i class="fa fa-check"></i>Book keeping entry - accounts tidy up</li>
-								<li><i class="fa fa-check"></i>Quarterly VAT returns</li>
-								<li><i class="fa fa-check"></i>One set of annual business accounts</li>
-								<li><i class="fa fa-check"></i>Year end tax return for business</li> 
-								<li><i class="fa fa-check"></i>One personal tax return</li>
-								<li><i class="fa fa-check"></i>Director’s payroll</li>
-								<li><i class="fa fa-check"></i>6 monthly meeting</li>
+								<li><i class="fa fa-check"></i>One set of year end accounts</li>
+								<li><i class="fa fa-check"></i>One personal or corporation tax return</li>
+								<li><i class="fa fa-check"></i>Review by email</li>
+								<li><i class="fa fa-check"></i>Filing of return</li>
+								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
+								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
+								<li><i class="fa fa-check"></i>VAT check or flat rate prep</li>
 								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
+								<li><i class="fa fa-check"></i>Cloud accounting package</li>
 								</ul></p>
 							</div>
-							<p><strong>Price from: £350</strong></p>
-							<p><strong>Extras:</strong>
+							
+							<p><strong>&nbsp;</strong></p>
+							<p><strong>&nbsp;</strong></p>
+							<p><strong>From £360 per year</strong></p>
+							<p><strong>  or £30 per month</strong></p>
+							<p><strong>&nbsp;</strong></p>
+							
+							<p><strong>Optional extras:</strong>
 								<ul>
-								<li><i class="fa fa-star"></i>Additional Book keeping entry</li>
+								<li><i class="fa fa-star"></i>Annual return for Ltd Co</li>
 								<li><i class="fa fa-star"></i>Payroll</li>
-								<li><i class="fa fa-star"></i>Incorporations</li>
 								<li><i class="fa fa-star"></i>Additional personal tax return</li>
-								<li><i class="fa fa-star"></i>Personal tax returns with more complicated circumstances</li>
+								<li><i class="fa fa-star"></i>Year round advice and guidance</li>
 								</ul></p>
 					    </div>
 
-					    <div class="threecol comp">
+		<!--Accounting Extra -->
+
+					    <div class="threecol comp-extra">
 					    	<p class="comp-title">Accounting Extra</p>
 					    	<div class ="description">
-					    	<p>As your business grows and gets more complicated, it is not just about the statutory returns any more. You need to stay on top of suppliers and customers and keep a hold of the cash flow. You need regular information to inform decisions and help you manage the business effectively
+					    	<p>As your business grows and gets more complicated, you need more support; your year end accounts are more complex, you might be VAT registered, you need advice and guidance during the year. 
 					    	</p>
 							</div>
+							
 							<div class = "includes">
 							<p><strong>Includes:</strong>
 								<ul>
-								<li><i class="fa fa-check"></i>Monthly Book keeping</li>
-								<li><i class="fa fa-check"></i>Monthly management accounts</li>
+								<li><i class="fa fa-check"></i>One set of year end accounts</li>
+								<li><i class="fa fa-check"></i>One personal or corporation tax return</li>
+								<li><i class="fa fa-check"></i>Review by email</li>
+								<li><i class="fa fa-check"></i>Filing of return</li>
+								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
+								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
 								<li><i class="fa fa-check"></i>Quarterly VAT returns</li>
-								<li><i class="fa fa-check"></i>One set of annual business accounts</li>
-								<li><i class="fa fa-check"></i>Year end tax return for business</li>
-								<li><i class="fa fa-check"></i>Personal tax return for Directors</li>
-								<li><i class="fa fa-check"></i>Director’s payroll</li>
-								<li><i class="fa fa-check"></i>Quarterly meetings</li>
 								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
-								<li><i class="fa fa-check"></i>Complicated personal returns</li>
+								<li><i class="fa fa-check"></i>Cloud accounting package</li>
+								<li><i class="fa fa-check"></i>Progress & review meetings</li>
 								</ul>
 							</p>
 							</div>
-							<p><strong>Price from: £800</strong></p>
-							<p><strong>Extras:</strong>
+							
+							<p><strong>&nbsp;</strong></p>
+							<p><strong>&nbsp;</strong></p>
+							<p><strong>From £600 per year</strong></p>
+							<p><strong>  or £50 per month</strong></p>
+							<p><strong>&nbsp;</strong></p>
+
+							<p><strong>Optional extras:</strong>
 								<ul>
+								<li><i class="fa fa-star"></i>Annual return for Ltd Co</li>
 								<li><i class="fa fa-star"></i>Payroll</li>
-								<li><i class="fa fa-star"></i>Incorporations</li>
 								</ul>
 							</p>
 					    </div>
+
+					    <!--Accounting Max -->
 
 					    <div class="threecol comp last">
 					    <p class="comp-title">Accounting Max</p>
 					    <div class ="description">
-					    <p>Full outsourcing of book keeping and accounts for larger companies. If you are looking for an alternative to employing more staff, we can work with you as your book keeping and accounts department. We’ll integrate with your company, do the day to day work and offer advice on best practise. 
+					    <p>It's not just about the statutory returns; you need regular information and support to keep on top of cash flow, customers and suppliers, to inform decisions and help you manage your business effectively.
 						</p>
 						</div>
 						<div class = "includes">
 						<p><strong>Includes:</strong>
 							<ul>
-							<li><i class="fa fa-check"></i>Act as outsourced finance section</li>
-							<li><i class="fa fa-check"></i>Handle Customer and Supplier ledgers</li>
-							<li><i class="fa fa-check"></i>Handle customer invoicing</li>
-							<li><i class="fa fa-check"></i>Handle bank reconciliation</li>
-							<li><i class="fa fa-check"></i>Payroll</li>
-							<li><i class="fa fa-check"></i>Weekly cash flow and ledger reports</li>
-							<li><i class="fa fa-check"></i>Plus all features of Acccounting Extra</li>
+								<li><i class="fa fa-check"></i>One set of year end accounts</li>
+								<li><i class="fa fa-check"></i>One personal or corporation tax return</li>
+								<li><i class="fa fa-check"></i>Review by email</li>
+								<li><i class="fa fa-check"></i>Filing of return</li>
+								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
+								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
+								<li><i class="fa fa-check"></i>Quarterly VAT returns</li>
+								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
+								<li><i class="fa fa-check"></i>Cloud accounting package</li>
+								<li><i class="fa fa-check"></i>Progress & review meetings</li>
+								<li><i class="fa fa-check"></i>Monthly / quarterly accounts and reports</li>
+							</ul>
 						</p>
 						</div>
-						<p><strong>Price: quote provided</strong></p>
+						
+						<p><strong>&nbsp;</strong></p>
+						<p><strong>From £2,500 per year</strong></p>
+						<p><strong>or £208 per month</strong></p>
+						<p><strong>&nbsp;</strong></p>
+					    
+						<p><strong>Optional extras:</strong>
+							<ul>
+								<li><i class="fa fa-star"></i>Annual return for Ltd Co</li>
+								<li><i class="fa fa-star"></i>Payroll</li>
+							</ul>
+						</p>
+
+
 					    </div>
 						</section>
 

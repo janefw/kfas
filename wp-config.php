@@ -71,6 +71,9 @@ $table_prefix  = 'wp_';
  */
 define('WPLANG', '');
 
+define( 'WP_HOME', 'http://kfas.dev' );
+define( 'WP_SITEURL', 'http://kfas.dev' );
+
 /**
  * For developers: WordPress debugging mode.
  *
