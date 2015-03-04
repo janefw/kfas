@@ -40,8 +40,10 @@
 					
 	<nav role="navigation" class="nav service">
 	<ul class="nav">
-		<!--<li><a href="http://www.facebook.com/KFAccountingServices/"><i class="icon-facebook-sign icon-2x"></i> Facebook</a></li>-->
-		<li><a href="http://www.twitter.com/kfaccounting/"><i class="icon-twitter-sign icon-2x"></i> Twitter</a></li>
+		<li><a href="http://www.facebook.com/KFAccountingServices/"><i class="icon-facebook-sign icon-2x"></i> Chat on Facebook</a></li>
+		<li><a href="http://www.twitter.com/kfaccounting/" target="_blank"><i class="icon-twitter-sign icon-2x"></i> Say hi on Twitter</a></li>
+		<li><a href="https://plus.google.com/u/1/b/101856043115495106107/101856043115495106107" rel="publisher" target="_blank"><i class="fa-google-plus icon-2x"></i>Review on Google+</a></li>
+		<li><a href="https://www.linkedin.com/company/kf-accounting-services/" target="_blank"><i class="fa-linkedin-square icon-2x"></i>Connect on LinkedIn</a></li>
 	</ul>
 	</nav>
 	
