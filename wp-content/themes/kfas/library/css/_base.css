@@ -615,19 +615,11 @@ a#trigger-businessservices {
   font-weight: bold;
 }
 .comp {
-  font-size: 80%;
+  font-size: 90%;
   padding-bottom: 30px;
   padding-top: 10px;
 }
 .comp i {
-  padding-right: 10px;
-}
-.comp-extra {
-  font-size: 80%;
-  padding-bottom: 30px;
-  padding-top: 10px;
-}
-.comp-extra i {
   padding-right: 10px;
 }
 .description {
