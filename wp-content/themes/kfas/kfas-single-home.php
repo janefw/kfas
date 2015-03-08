@@ -318,7 +318,7 @@ Template Name: KFAS Single Home Page
 	<div class="twelvecol first about">
 	<a class="anchor" id="who-a"></a>
 	<h2>Who we are</h2>
-	<p>We’re a chartered accountancy firm based in Matlock. Come and meet us in person.</p>
+	<p>We’re a chartered accountancy firm based in Matlock. We'd love to meet you.</p>
 	<div class="fourcol first about">
 		<h5>Keith Falconer<br>Director</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/keith-icon.png" / alt="Keith Falconer" height="250" width="300">
