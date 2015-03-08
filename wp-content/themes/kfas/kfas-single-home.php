@@ -27,9 +27,9 @@ Template Name: KFAS Single Home Page
 	</div>
 
 	<div class="sixcol last intro">
-		<h2>Local accountants for small businesses and individuals.</h2>
-		<p>We are a Matlock based chartered accountancy practice offering simple, straightforward, easy accounting services. </p>
-		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation and meet us in person.</p>
+		<h2>Business is complicated enough, we'll keep it simple</h2>
+		<p>We are a chartered accountancy practice offering simple, straightforward, easy accounting services to small business. We are based in Matlock but our cloud accounting solutions mean that you can be anywhere!</p>
+		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation. We'd love to meet you.</p>
 		
 		<div id="call-to-action">
 			<div class= "sixcol first buttons clearfix">
@@ -261,10 +261,20 @@ Template Name: KFAS Single Home Page
 					    </div>
 						</section>
 
-						</section>				
+						</section>	
+
+						<h3>What else can we help with?</h3>
+						
+						<p><i class="icon-lightbulb icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a href="<?php echo home_url(); ?>/business-kick-starter/">New Business Kickstarter</a> - When you are just starting out there are a lot of things to take care of. We help with everything from the business plan, incorporations, payroll setup to selecting an accounts package.</p>
+						<p><i class="icon-ambulance icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a href="<?php echo home_url(); ?>/finance-first-aid/">Finance First Aid</a> - Business has been busy and you’ve not done your books for a while. Before you know it you’ve got missing tax returns and fines. We can help you to get back on track with your accounts and avoid the stress and worry.</p>
+						</p>
+						<p><i class="fa-pencil-square-o icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a class="link" href="<?php echo home_url(); ?>/blog">Money Made Simple Blog</a> - If you feel like your accounts are in a different language, then this great information resource is for you. We answer some of the most popular questions that clients ask about their business, book keeping and accounts.</p>
+									
 
 </div>
 	</div>
+
+
 </section>
 <!--end of SERVICES section, three columns -->
 
@@ -279,7 +289,7 @@ Template Name: KFAS Single Home Page
 	<div class="section-container wrap">
 
 	<h2>Our approach</h2>
-	<h3>Money matters made simple, tailored to your needs.</h3>
+	<h3>Money matters made simple, so you can focus on your business.</h3>
 	<!--<h3>We think you've probably got enough to worry about, so we'll fit in with you</h3>-->
 	
 		<div class="fourcol first about">
@@ -297,10 +307,10 @@ Template Name: KFAS Single Home Page
 		<i class="fa-cloud icon-4x"></i>
 		</div>
 
-	<p>If you need a late or weekend appointment to fit in with work, we can do that. If you’ve got a certain way that you like to do your books then we can work with that. We won’t make you fit in with one way of working or a favourite software package, but can always provide any guidance and recommendations.
+	<p>Accounts and tax are probably not your favourite parts of running a business, but they are essential. We want to take the stress out of book keeping, accounts and tax. We want to make things easier and clearer, so that you have the knowledge to take control of all aspects of your business and the time to focus on the good parts. 
 	</p>
 
-	<p>We'll give you a fixed, upfront price quote and the opportunity to spread payments monthly.</p>
+	<p>We'll give you a fixed, upfront price and the opportunity to spread payments monthly.</p>
 	</p>
 	</div>	
 
@@ -356,7 +366,8 @@ Template Name: KFAS Single Home Page
 	<div class="section-container wrap">
 
 	<h2>Get in touch</h2>
-	<p>Give us a call to arrange your <span style="color:#cc3399; font-weight: bold;">FREE</span> consultation.</p>
+	<p>Give us a call to arrange your <span style="color:#cc3399; font-weight: bold;">FREE</span> consultation.</br>
+	 We can meet in person, over Skype, Google Hangout - whatever suits you best</p>
 	<div class="sixcol first contact-info">
 	<p><iframe src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14&amp;output=embed" height="350" width="350" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><br />
 	<p><small><a style="color: #0000ff; text-align: left;" href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14">View Larger Map</a></small></p>
