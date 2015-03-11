@@ -94,63 +94,22 @@ Template Name: KFAS Single Home Page
 <div class="section-container wrap">
 
 <h2>How we can help?</h2>
-
-						<!--<div class="fourcol services first">
-							<h5><i class="icon-lightbulb icon-4x pull-left icon-muted" style="color:#cc3399;"></i>New Business Kick-Starter<br></h5>
-							<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I want to focus on my new business; I don’t want to waste time. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
-							<p>When you are just starting out there are a lot of things to take care of. We help with everything from the business plan, incorporations, payroll setup to selecting an accounts package.</p>
 						
-							<p>
-								<a class="startup-button" href="<?php echo home_url(); ?>/business-kick-starter/">I'm starting out</a>
-							</p>
-						
-							<p>Come and talk about our start-up services and new business package.</p>
-						</div>
-						
-						<div class="fourcol services">
-						<h5><i class="icon-ambulance icon-4x pull-left icon-muted" style="color:#cc3399;"></i>Finance First Aid<br></h5>
-						
-						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I just don’t know how to get on top of my accounts. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
-						<p>Business has been busy and you’ve not done your books for a while. Before you know it you’ve got missing tax returns and fines. We can help you to get back on track with your accounts and avoid the stress and worry.</p>
-						
-						<p>
-							<a class="startup-button" href="<?php echo home_url(); ?>/finance-first-aid/">I need urgent help</a>
-						</p>
-
-						<p>
-							<a class="startup-button-768" href="<?php echo home_url(); ?>/finance-first-aid/">More info</a>
-						</p>
-
-
-						<p>Get in touch about our finance first aid package.</p>
-						</div>
-
-						<div class="fourcol services last clearfix">
-						<h5><i class="icon-bar-chart icon-4x pull-left icon-muted" style="color:#cc3399;"></i>Business Support</h5>
-						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I need some regular support with my finances and returns. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
-						<p>Whether you need work out your VAT, CIS, submit your annual returns or keep on top of your accounts more regularly we can help. We can provide advice, support and services as your business grows.</p>
-						
-						<p>
-							<a class="startup-button" href="<?php echo home_url(); ?>/business-support/">I need ongoing support</a>
-						</p>
-
-						<p>Chat about our business accounting and taxation services.</p>
-						</div>-->	
 
 <section class ="entry-content clearfix">
 
-		<P style="text-align:center">We love supporting small businesses and start-ups. </br>
-		Start by picking your package, then we'll give you a fixed price based on your particular business needs.</p>
+		<P style="text-align:center">We love supporting small businesses and start-ups. </p>
+		<p style="text-align:center">Start by picking your package, then we'll give you a fixed price based on your particular business needs.</br>
+		You can spread your payments monthly to make things easier.</p>
 
 			<section id="comparison">
-
 
 			<!--Accounting Basics-->
 
 					    <div class="fourcol first comp">
 					    	<p class="comp-title">Accounting Basics</p>
 					    	<div class ="description">
-					    	<p> <span style ="color:#cc3399">**Our most popular package** </span></p>
+					    	<!--<p> <span style ="color:#cc3399">**Our most popular package** </span></p>-->
 					    	<p>This is ideal for small sole traders / limited companies and new starters. The business is small but growing.
 					    	</p>
 					    	</div>
@@ -259,18 +218,17 @@ Template Name: KFAS Single Home Page
 
 
 					    </div>
-						</section>
+						</section>			
 
 						</section>	
 
-						<h3>What else can we help with?</h3>
+						<h2>What else can we help with?</h2>
 						
 						<p><i class="icon-lightbulb icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a href="<?php echo home_url(); ?>/business-kick-starter/">New Business Kickstarter</a> - When you are just starting out there are a lot of things to take care of. We help with everything from the business plan, incorporations, payroll setup to selecting an accounts package.</p>
 						<p><i class="icon-ambulance icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a href="<?php echo home_url(); ?>/finance-first-aid/">Finance First Aid</a> - Business has been busy and you’ve not done your books for a while. Before you know it you’ve got missing tax returns and fines. We can help you to get back on track with your accounts and avoid the stress and worry.</p>
-						</p>
 						<p><i class="fa-pencil-square-o icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a class="link" href="<?php echo home_url(); ?>/blog">Money Made Simple Blog</a> - If you feel like your accounts are in a different language, then this great information resource is for you. We answer some of the most popular questions that clients ask about their business, book keeping and accounts.</p>
-									
-
+						
+						
 </div>
 	</div>
 
@@ -307,11 +265,9 @@ Template Name: KFAS Single Home Page
 		<i class="fa-cloud icon-4x"></i>
 		</div>
 
-	<p>Accounts and tax are probably not your favourite parts of running a business, but they are essential. We want to take the stress out of book keeping, accounts and tax. We want to make things easier and clearer, so that you have the knowledge to take control of all aspects of your business and the time to focus on the good parts. 
+	<p>Accounts and tax are probably not your favourite parts of running a business, but they are essential. We want to take the stress out of your book keeping, accounts and tax. We want to make things easier and clearer, so that you have the knowledge to take control of all aspects of your business and the time to focus on the good parts. 
 	</p>
 
-	<p>We'll give you a fixed, upfront price and the opportunity to spread payments monthly.</p>
-	</p>
 	</div>	
 
 </div>
@@ -367,7 +323,7 @@ Template Name: KFAS Single Home Page
 
 	<h2>Get in touch</h2>
 	<p>Give us a call to arrange your <span style="color:#cc3399; font-weight: bold;">FREE</span> consultation.</br>
-	 We can meet in person, over Skype, Google Hangout - whatever suits you best</p>
+	 We can meet in person, over Skype, Google Hangout - whatever suits you best.</p>
 	<div class="sixcol first contact-info">
 	<p><iframe src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14&amp;output=embed" height="350" width="350" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><br />
 	<p><small><a style="color: #0000ff; text-align: left;" href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14">View Larger Map</a></small></p>
