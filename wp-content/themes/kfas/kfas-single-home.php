@@ -27,9 +27,9 @@ Template Name: KFAS Single Home Page
 	</div>
 
 	<div class="sixcol last intro">
-		<h2>Local accountants for small businesses and individuals.</h2>
-		<p>We are a Matlock based chartered accountancy practice offering simple, straightforward, easy accounting services. </p>
-		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation and meet us in person.</p>
+		<h2>Business is complicated enough, we'll keep it simple</h2>
+		<p>We are a chartered accountancy practice offering simple, straightforward, easy accounting services to small business. We are based in Matlock but our cloud accounting solutions mean that you can be anywhere!</p>
+		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation. We'd love to meet you.</p>
 		
 		<div id="call-to-action">
 			<div class= "sixcol first buttons clearfix">
@@ -94,97 +94,22 @@ Template Name: KFAS Single Home Page
 <div class="section-container wrap">
 
 <h2>How we can help?</h2>
-
-						<div class="fourcol services first">
-							<h5><i class="icon-lightbulb icon-4x pull-left icon-muted" style="color:#cc3399;"></i>New Business Kick-Starter<br></h5>
-							<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I want to focus on my new business; I don’t want to waste time. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
-							<p>When you are just starting out there are a lot of things to take care of. We help with everything from the business plan, incorporations, payroll setup to selecting an accounts package.</p>
 						
-							<!--<p>
-								<a class="startup-button" href="<?php echo home_url(); ?>/business-kick-starter/">I'm starting out</a>
-							</p>-->
-						
-							<p>Come and talk about our start-up services and new business package.</p>
-						</div>
-						
-						<div class="fourcol services">
-						<h5><i class="icon-ambulance icon-4x pull-left icon-muted" style="color:#cc3399;"></i>Finance First Aid<br></h5>
-						
-						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I just don’t know how to get on top of my accounts. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
-						<p>Business has been busy and you’ve not done your books for a while. Before you know it you’ve got missing tax returns and fines. We can help you to get back on track with your accounts and avoid the stress and worry.</p>
-						
-						<!--<p>
-							<a class="startup-button" href="<?php echo home_url(); ?>/finance-first-aid/">I need urgent help</a>
-						</p>-->
-
-						<p>
-							<a class="startup-button-768" href="<?php echo home_url(); ?>/finance-first-aid/">More info</a>
-						</p>
-
-
-						<p>Get in touch about our finance first aid package.</p>
-						</div>
-
-						<div class="fourcol services last clearfix">
-						<h5><i class="icon-bar-chart icon-4x pull-left icon-muted" style="color:#cc3399;"></i>Business Support</h5>
-						<p style="color:#336699;"><i class="icon-quote-left pull-left" style="color:#cc3399;"></i>I need some regular support with my finances and returns. <i class="icon-quote-right" style="color:#cc3399;"></i></p>
-						<p>Whether you need work out your VAT, CIS, submit your annual returns or keep on top of your accounts more regularly we can help. We can provide advice, support and services as your business grows.</p>
-						
-						<!--<p>
-							<a class="startup-button" href="<?php echo home_url(); ?>/business-support/">I need ongoing support</a>
-						</p>-->
-
-						<p>Chat about our business accounting and taxation services.</p>
-						</div>	
 
 <section class ="entry-content clearfix">
 
-		<P style="text-align:center">Start by picking your package, then we'll give you a fixed quote based on your particular business needs.</p>
+		<P style="text-align:center">We love supporting small businesses and start-ups. </p>
+		<p style="text-align:center">Start by picking your package, then we'll give you a fixed price based on your particular business needs.</br>
+		You can spread your payments monthly to make things easier.</p>
 
 			<section id="comparison">
 
-			<!--Accounting Lite-->
-
-					    <div class="threecol first comp">
-					    	<p class="comp-title"> Accounting Lite </p>
-					    	<div class ="description">
-					    	<p>The absolute bare bones accounting service. Suitable for very simple accounts with few transactions.</p> 
-							<p>Business accounts must already be in an accounting package or summarised for the year.</p> 
-							</div>
-							
-							<div class = "includes">
-							<p>
-								<ul>
-								<li><i class="fa fa-check"></i>One set of year end accounts</li>
-								<li><i class="fa fa-check"></i>One personal or corporation tax return</li>
-								<li><i class="fa fa-check"></i>Review by email</li>
-								<li><i class="fa fa-check"></i>Filing of return</li>
-								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
-								</ul></p>
-							</div>
-								
-								
-								<p><strong>&nbsp;</strong></p>
-								<p><strong>From £200 per year</strong></p>
-								<p><strong>&nbsp;</strong></p>
-								<p><strong>&nbsp;</strong></p>
-
-								<p><strong>Optional extras:</strong>
-								<ul>
-								<li><i class="fa fa-star"></i>Annual return for Ltd Co</li>
-								<li><i class="fa fa-star"></i>Payroll</li>
-								<li><i class="fa fa-star"></i>Additional personal tax return</li>
-								<li><i class="fa fa-star"></i>Year round advice and guidance</li>
-								</ul>
-							</p>
-					    </div>
-
 			<!--Accounting Basics-->
 
-					    <div class="threecol comp">
+					    <div class="fourcol first comp">
 					    	<p class="comp-title">Accounting Basics</p>
 					    	<div class ="description">
-					    	<p> <span style ="color:#cc3399">**Our most popular package** </span></p>
+					    	<!--<p> <span style ="color:#cc3399">**Our most popular package** </span></p>-->
 					    	<p>This is ideal for small sole traders / limited companies and new starters. The business is small but growing.
 					    	</p>
 					    	</div>
@@ -198,32 +123,30 @@ Template Name: KFAS Single Home Page
 								<li><i class="fa fa-check"></i>Filing of return</li>
 								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
 								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>VAT check or flat rate prep</li>
 								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
-								<li><i class="fa fa-check"></i>Cloud accounting package</li>
+								<li><i class="fa fa-check"></i>VAT basic check or flat rate</li>
 								</ul></p>
 							</div>
 							
-							<p><strong>&nbsp;</strong></p>
 							<p><strong>From £360 per year</strong></p>
 							<p><strong>  or £30 per month</strong></p>
 							<p><strong>&nbsp;</strong></p>
 							
 							<p><strong>Optional extras:</strong>
 								<ul>
+								<li><i class="fa fa-star"></i>Cloud Accounting package</li>
 								<li><i class="fa fa-star"></i>Annual return for Ltd Co</li>
 								<li><i class="fa fa-star"></i>Payroll</li>
 								<li><i class="fa fa-star"></i>Additional personal tax return</li>
-								<li><i class="fa fa-star"></i>Year round advice and guidance</li>
 								</ul></p>
 					    </div>
 
 		<!--Accounting Extra -->
 
-					    <div class="threecol comp-extra">
+					    <div class="fourcol comp">
 					    	<p class="comp-title">Accounting Extra</p>
 					    	<div class ="description">
-					    	<p>As your business grows and gets more complicated, you need more support; your year end accounts are more complex, you might be VAT registered, you need advice and guidance during the year. 
+					    	<p>As your business grows and gets more complicated, you need more support. Your accounts are more complex and you need regular advice and guidance during the year. 
 					    	</p>
 							</div>
 							
@@ -236,21 +159,20 @@ Template Name: KFAS Single Home Page
 								<li><i class="fa fa-check"></i>Filing of return</li>
 								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
 								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Quarterly VAT returns</li>
 								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
-								<li><i class="fa fa-check"></i>Cloud accounting package</li>
+								<li><i class="fa fa-check"></i>Quarterly VAT returns (standard or flat rate)</li>
 								<li><i class="fa fa-check"></i>Progress & review meetings</li>
 								</ul>
 							</p>
 							</div>
 							
-							<p><strong>&nbsp;</strong></p>
-							<p><strong>From £600 per year</strong></p>
-							<p><strong>  or £50 per month</strong></p>
+							<p><strong>From £780 per year</strong></p>
+							<p><strong>  or £65 per month</strong></p>
 							<p><strong>&nbsp;</strong></p>
 
 							<p><strong>Optional extras:</strong>
 								<ul>
+								<li><i class="fa fa-star"></i>Cloud Accounting package</li>
 								<li><i class="fa fa-star"></i>Annual return for Ltd Co</li>
 								<li><i class="fa fa-star"></i>Payroll</li>
 								</ul>
@@ -259,7 +181,7 @@ Template Name: KFAS Single Home Page
 
 					    <!--Accounting Max -->
 
-					    <div class="threecol comp last">
+					    <div class="fourcol comp last">
 					    <p class="comp-title">Accounting Max</p>
 					    <div class ="description">
 					    <p>It's not just about the statutory returns; you need regular information and support to keep on top of cash flow, customers and suppliers, to inform decisions and help you manage your business effectively.
@@ -274,22 +196,21 @@ Template Name: KFAS Single Home Page
 								<li><i class="fa fa-check"></i>Filing of return</li>
 								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
 								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Quarterly VAT returns</li>
 								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
-								<li><i class="fa fa-check"></i>Cloud accounting package</li>
+								<li><i class="fa fa-check"></i>Quarterly VAT returns (standard or flat rate)</li>
 								<li><i class="fa fa-check"></i>Progress & review meetings</li>
 								<li><i class="fa fa-check"></i>Monthly / quarterly accounts and reports</li>
 							</ul>
 						</p>
 						</div>
 						
-						<p><strong>&nbsp;</strong></p>
 						<p><strong>From £2,500 per year</strong></p>
 						<p><strong>or £208 per month</strong></p>
 						<p><strong>&nbsp;</strong></p>
 					    
 						<p><strong>Optional extras:</strong>
 							<ul>
+								<li><i class="fa fa-star"></i>Cloud Accounting package</li>
 								<li><i class="fa fa-star"></i>Annual return for Ltd Co</li>
 								<li><i class="fa fa-star"></i>Payroll</li>
 							</ul>
@@ -297,12 +218,21 @@ Template Name: KFAS Single Home Page
 
 
 					    </div>
-						</section>
+						</section>			
 
-						</section>				
+						</section>	
 
+						<h2>What else can we help with?</h2>
+						
+						<p><i class="icon-lightbulb icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a href="<?php echo home_url(); ?>/business-kick-starter/">New Business Kickstarter</a> - When you are just starting out there are a lot of things to take care of. We help with everything from the business plan, incorporations, payroll setup to selecting an accounts package.</p>
+						<p><i class="icon-ambulance icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a href="<?php echo home_url(); ?>/finance-first-aid/">Finance First Aid</a> - Business has been busy and you’ve not done your books for a while. Before you know it you’ve got missing tax returns and fines. We can help you to get back on track with your accounts and avoid the stress and worry.</p>
+						<p><i class="fa-pencil-square-o icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a class="link" href="<?php echo home_url(); ?>/blog">Money Made Simple Blog</a> - If you feel like your accounts are in a different language, then this great information resource is for you. We answer some of the most popular questions that clients ask about their business, book keeping and accounts.</p>
+						
+						
 </div>
 	</div>
+
+
 </section>
 <!--end of SERVICES section, three columns -->
 
@@ -317,29 +247,27 @@ Template Name: KFAS Single Home Page
 	<div class="section-container wrap">
 
 	<h2>Our approach</h2>
-	<h3>Money matters made simple, tailored to your needs.</h3>
+	<h3>Money matters made simple, so you can focus on your business.</h3>
 	<!--<h3>We think you've probably got enough to worry about, so we'll fit in with you</h3>-->
 	
 		<div class="fourcol first about">
-		<h5>Meetings to suit you</h5>
-		<i class="fa-smile-o icon-4x"></i>
+		<h5>Supporting your business</h5>
+		<i class="fa-heart-o icon-4x"></i>
 		</div>
 	
 		<div class="fourcol about">
-		<h5>Flexible approach</h5>
-		<i class="fa-rotate-right icon-4x"></i>
-		</div>
-	
-		<div class="fourcol last about">
 		<h5>Straightforward pricing</h5>
 		<i class="icon-money icon-4x"></i>
 		</div>
+	
+		<div class="fourcol last about">
+		<h5>Cloud Accounting</h5>
+		<i class="fa-cloud icon-4x"></i>
+		</div>
 
-	<p>If you need a late or weekend appointment to fit in with work, we can do that. If you’ve got a certain way that you like to do your books then we can work with that. We won’t make you fit in with one way of working or a favourite software package, but can always provide any guidance and recommendations.
+	<p>Accounts and tax are probably not your favourite parts of running a business, but they are essential. We want to take the stress out of your book keeping, accounts and tax. We want to make things easier and clearer, so that you have the knowledge to take control of all aspects of your business and the time to focus on the good parts. 
 	</p>
 
-	<p>We'll give you a fixed, upfront price quote and the opportunity to spread payments monthly.</p>
-	</p>
 	</div>	
 
 </div>
@@ -356,7 +284,7 @@ Template Name: KFAS Single Home Page
 	<div class="twelvecol first about">
 	<a class="anchor" id="who-a"></a>
 	<h2>Who we are</h2>
-	<p>We’re a chartered accountancy firm based in Matlock. Come and meet us in person.</p>
+	<p>We’re a chartered accountancy firm based in Matlock. We'd love to meet you.</p>
 	<div class="fourcol first about">
 		<h5>Keith Falconer<br>Director</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/keith-icon.png" / alt="Keith Falconer" height="250" width="300">
@@ -394,7 +322,8 @@ Template Name: KFAS Single Home Page
 	<div class="section-container wrap">
 
 	<h2>Get in touch</h2>
-	<p>Give us a call to arrange your <span style="color:#cc3399; font-weight: bold;">FREE</span> consultation.</p>
+	<p>Give us a call to arrange your <span style="color:#cc3399; font-weight: bold;">FREE</span> consultation.</br>
+	 We can meet in person, over Skype, Google Hangout - whatever suits you best.</p>
 	<div class="sixcol first contact-info">
 	<p><iframe src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14&amp;output=embed" height="350" width="350" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><br />
 	<p><small><a style="color: #0000ff; text-align: left;" href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14">View Larger Map</a></small></p>
