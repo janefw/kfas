@@ -113,6 +113,9 @@ Template Name: KFAS Single Home Page
 					    	<p>This is ideal for small sole traders / limited companies and new starters. The business is small but growing.
 					    	</p>
 					    	</div>
+
+					    	<p><strong><span style ="color:#cc3399">From £30 per month</span></strong></p>
+							<p><strong>&nbsp;</strong></p>
 							
 							<div class = "includes">
 							<p>
@@ -127,10 +130,6 @@ Template Name: KFAS Single Home Page
 								<li><i class="fa fa-check"></i>VAT basic check or flat rate</li>
 								</ul></p>
 							</div>
-							
-							<p><strong>From £360 per year</strong></p>
-							<p><strong>  or £30 per month</strong></p>
-							<p><strong>&nbsp;</strong></p>
 							
 							<p><strong>Optional extras:</strong>
 								<ul>
@@ -150,6 +149,9 @@ Template Name: KFAS Single Home Page
 					    	</p>
 							</div>
 							
+							<p><strong><span style ="color:#cc3399">From £65 per month</span></strong></p>
+							<p><strong>&nbsp;</strong></p>
+
 							<div class = "includes">
 							<p>
 								<ul>
@@ -165,16 +167,13 @@ Template Name: KFAS Single Home Page
 								</ul>
 							</p>
 							</div>
-							
-							<p><strong>From £780 per year</strong></p>
-							<p><strong>  or £65 per month</strong></p>
-							<p><strong>&nbsp;</strong></p>
 
 							<p><strong>Optional extras:</strong>
 								<ul>
 								<li><i class="fa fa-star"></i>Cloud Accounting package</li>
 								<li><i class="fa fa-star"></i>Annual return for Ltd Co</li>
 								<li><i class="fa fa-star"></i>Payroll</li>
+								<li><i class="fa fa-star"></i>Additional personal tax return</li>
 								</ul>
 							</p>
 					    </div>
@@ -187,6 +186,10 @@ Template Name: KFAS Single Home Page
 					    <p>It's not just about the statutory returns; you need regular information and support to keep on top of cash flow, customers and suppliers, to inform decisions and help you manage your business effectively.
 						</p>
 						</div>
+
+						<p><strong><span style ="color:#cc3399">From £208 per month</span></strong></p>
+							<p><strong>&nbsp;</strong></p>
+
 						<div class = "includes">
 						<p>
 							<ul>
@@ -203,16 +206,13 @@ Template Name: KFAS Single Home Page
 							</ul>
 						</p>
 						</div>
-						
-						<p><strong>From £2,500 per year</strong></p>
-						<p><strong>or £208 per month</strong></p>
-						<p><strong>&nbsp;</strong></p>
 					    
 						<p><strong>Optional extras:</strong>
 							<ul>
 								<li><i class="fa fa-star"></i>Cloud Accounting package</li>
 								<li><i class="fa fa-star"></i>Annual return for Ltd Co</li>
 								<li><i class="fa fa-star"></i>Payroll</li>
+								<li><i class="fa fa-star"></i>Additional personal tax return</li>
 							</ul>
 						</p>
 
@@ -334,9 +334,9 @@ Template Name: KFAS Single Home Page
 	<p><span style="color: #cc3399; font-weight: bold;">Email us:</span> at <a href="mailto:enquiries@kfaccounting.co.uk">enquiries@kfaccounting.co.uk </a></p>
 	<p><span style="color: #cc3399; font-weight: bold;">Visit us:</span> at 81 Dale Road, Matlock, DE4 3LU</p>
 	<p>You can find our offices in Dale Road in the centre of Matlock.</p>
-	<p>If coming from Derby and Matlock Bath on the A6, the office entrance is just before Old Derwent Avenue on the right, between Monks Bar and the Chinese.</p>
+	<p>If coming from Derby and Matlock Bath on the A6, the office entrance is just before Olde English Road / Derwent Avenue on the right, between Monk Bar and the Chinese.</p>
 	<p>Coming from Bakewell on the A6 the office office enterance is on the left.</p>
-	<p>Car parking is available in the parking area to the front of the shops adjacent to the office, or in the public car park on Old Derwent Avenue.</p>			
+	<p>Car parking is available in the parking area to the front of the shops adjacent to the office, or in the public car park on Olde English Road / Derwent Avenue.</p>			
 	</div>				
   
 	</div>
