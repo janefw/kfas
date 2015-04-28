@@ -28,7 +28,7 @@ Template Name: KFAS Single Home Page
 
 	<div class="sixcol last intro">
 		<h2>Business is complicated enough, we'll keep it simple</h2>
-		<p>We are a chartered accountancy practice offering simple, straightforward, easy accounting services to small business. We are based in Matlock but our cloud accounting solutions mean that you can be anywhere!</p>
+		<p>We are a Matlock based chartered accountancy practice offering simple, straightforward, easy accounting services to small business.</p>
 		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation. We'd love to meet you.</p>
 		
 		<div id="call-to-action">
@@ -54,9 +54,9 @@ Template Name: KFAS Single Home Page
 	<div id="mobile-home"><!--The small screen version without picture-->
 	
 		<div class="twelvecol first intro">
-		<h2>Local accountants for small businesses and individuals.</h2>
-		<p>We are a Matlock based chartered accountancy practice offering simple, straightforward, easy accounting services. </p>
-		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation and meet us in person.</p>
+		<h2>Business is complicated enough, we'll keep it simple</h2>
+		<p>We are a Matlock based chartered accountancy practice offering simple, straightforward, easy accounting services to small business.</p>
+		<p>Get in touch with us today to arrange your <span style="color:#cc3399; font-weight: bold;">FREE </span> consultation. We'd love to meet you.</p>
 		
 		<div id="call-to-action">
 			<div class= "sixcol first buttons clearfix">
@@ -265,7 +265,8 @@ Template Name: KFAS Single Home Page
 		<i class="fa-cloud icon-4x"></i>
 		</div>
 
-	<p>Accounts and tax are probably not your favourite parts of running a business, but they are essential. We want to take the stress out of your book keeping, accounts and tax. We want to make things easier and clearer, so that you have the knowledge to take control of all aspects of your business and the time to focus on the good parts. 
+	<p>Accounts and tax are probably not your favourite parts of running a business, but they are essential. We aim to take the stress out of your money matters. 
+	We want to make things easier and clearer, so that you have the knowledge to take control of all aspects of your business and the time to focus on the good parts. 
 	</p>
 
 	</div>	
@@ -322,8 +323,7 @@ Template Name: KFAS Single Home Page
 	<div class="section-container wrap">
 
 	<h2>Get in touch</h2>
-	<p>Give us a call to arrange your <span style="color:#cc3399; font-weight: bold;">FREE</span> consultation.</br>
-	 We can meet in person, over Skype, Google Hangout - whatever suits you best.</p>
+	<p>Give us a call to arrange your <span style="color:#cc3399; font-weight: bold;">FREE</span> consultation.</p>
 	<div class="sixcol first contact-info">
 	<p><iframe src="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14&amp;output=embed" height="350" width="350" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><br />
 	<p><small><a style="color: #0000ff; text-align: left;" href="https://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=81+dale+road,+matlock&amp;aq=&amp;sll=52.8382,-2.327815&amp;sspn=6.491397,21.247559&amp;ie=UTF8&amp;hq=&amp;hnear=81+Dale+Rd,+Matlock+DE4+3LU,+United+Kingdom&amp;t=m&amp;ll=53.135701,-1.55551&amp;spn=0.018022,0.034418&amp;z=14">View Larger Map</a></small></p>
