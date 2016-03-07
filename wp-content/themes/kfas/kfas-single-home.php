@@ -29,7 +29,7 @@ Template Name: KFAS Single Home Page
 
 	<div class="sixcol last intro">
 		<h2>Business is complicated enough ....</h2>
-		<p>Hello, take the weight off, you've come to the right place. We're all about taking the worry and stress out of your business finances so you can make informed decisions and focus on the good stuff. </p>
+		<p>Hello, take a weight off your mind, you've come to the right place. We're all about taking the worry and stress out of your business finances so you can make informed decisions and focus on the good stuff. </p>
 		<p>In fact, we might be able to help you right now if you check out our blog.</p>
 		
 		<div id="call-to-action">
@@ -230,31 +230,12 @@ Template Name: KFAS Single Home Page
 						<p><strong>Optional extras for all packages:</strong>
 								<ul>
 								<li><i class="fa fa-check pull-left"></i>Bookkeeping data entry</li>
-								<li><i class="fa fa-check pull-left"></i>Additional payroll</li>
-								<li><i class="fa fa-check pull-left"></i>Additional personal tax return</li>
+								<li><i class="fa fa-check pull-left"></i>Additional payroll employees</li>
+								<li><i class="fa fa-check pull-left"></i>Additional personal tax returns</li>
 								</ul>
 						</p>
 						
 						<p><i class="fa fa-check pull-left icon-muted" style="color:#cc3399;"></i><a href="<?php echo home_url(); ?>/business-kick-starter/">New Business Kickstarter</a> - When you are just starting out there are a lot of things to take care of. We help with everything from incorporations, registering with HMRC, payroll setup to selecting an accounts package.</p>
-						
-						<!--<p><i class="icon-ambulance icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a href="<?php echo home_url(); ?>/finance-first-aid/">Finance First Aid</a> - Business has been busy and you’ve not done your books for a while. Before you know it you’ve got missing tax returns and fines. We can help you to get back on track with your accounts and avoid the stress and worry.</p>-->
-						<!--<p><i class="fa-pencil-square-o icon-2x pull-left icon-muted" style="color:#cc3399;"></i><a class="link" href="<?php echo home_url(); ?>/blog">Money Made Simple Blog</a> - If you feel like your accounts are in a different language, then this great information resource is for you. We answer some of the most popular questions that clients ask about their business, book keeping and accounts.</p>-->
-		
-
-						<!--<div id="call-to-action">
-							<div class= "sixcol first buttons clearfix">
-							<a class="call-button talk" href="#contact-a">Contact us</a>
-							</div>
-							<div class="sixcol last buttons clearfix">
-							<a class="call-button more" href="<?php echo home_url(); ?>/blog">Visit our blog</a>
-							</div>
-
-							<div class= "sixcol first buttons-mobile clearfix">
-							<a class="call-button talk" href="#contact-a">Contact us</a>
-							</div>
-							<div class="sixcol last buttons-mobile clearfix">
-							<a class="call-button more" href="<?php echo home_url(); ?>/blog">Visit our blog</a>
-							</div>-->
 
 						</div>	
 						</section>			
@@ -318,7 +299,7 @@ Template Name: KFAS Single Home Page
 	<div class="sixcol first about">
 		<h5>Keith Falconer<br>Director</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/keith-icon.png" / alt="Keith Falconer" height="250" width="300">
-		<p>Keith is a CIMA chartered management accountant with more years financial experience than he would care to admit. If you are lucky you might catch his band playing.</p>
+		<p>Keith is a CIMA chartered management accountant with more years financial experience than he would care to admit. If you are lucky you might spot him on the cycle trails of Derbyshire.</p>
 		</div>
 	
 		<div class="sixcol last about">
@@ -330,8 +311,8 @@ Template Name: KFAS Single Home Page
 	
 		<div class="sixcol first about">
 		<h5>Kerry Carter<br>Accounts Assistant</h5>
-		<img src="<?php echo get_template_directory_uri(); ?>/images/doreen-icon.png" / alt="Doreen Watt" height="250" width="308">
-		<p>Kerry is our CIMA-trained accounts-prep whizz with ??? years of accounting experience. She is also a little photo-shy.</p>
+		<img src="<?php echo get_template_directory_uri(); ?>/images/kerry-icon.fw.png" / alt="Kerry Carter" height="250" width="253">
+		<p>Kerry is our CIMA-trained accounts-prep whizz with more than 6 years of accounting experience. She is very creative and loves making things.</p>
 		</div>
 
 		<div class="sixcol last about">
