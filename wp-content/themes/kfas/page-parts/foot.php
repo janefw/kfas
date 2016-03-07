@@ -3,8 +3,6 @@
 				<div id="inner-footer" class="wrap clearfix">
 					
 	<div class="threecol first footer-section">
-	
-		<h5>Navigation</h5>
 		
 		<nav role="navigation" class="nav" id="nav">
 		    <ul class="nav">
@@ -24,22 +22,26 @@
 	<div class="threecol footer-section">
 		<p>
 		</br></br>
-		<a href="http://www.xero.com/">
-			<img src="<?php echo get_template_directory_uri(); ?>/images/xero-logo-hires-RGB-sml.png" title="We are a Xero Partner" alt="We are a Xero Partner" width="200" height="93">
-		</a>
-		</br></br>
-		<a href="http://www.clearbooks.co.uk/">
-			<img src="<?php echo get_template_directory_uri(); ?>/images/clear-books-logo-rgb.png" title="We work with Clearbooks" alt="We work with Clearbooks" width="205" height="50">
-		</a>
+	<!--<a href="http://www.cimaglobal.com/">
+			<img src="<?php echo get_template_directory_uri(); ?>/library/images/PCH_pink.jpg" alt="CIMA" width="150" height="83">
+		</a>-->
 		</p>
 	</div>
 
 	<div class="threecol footer-section">
-		</br></br>
-		<p>
-		<a href="http://www.cimaglobal.com/">
-			<img src="<?php echo get_template_directory_uri(); ?>/library/images/PCH_pink.jpg" alt="CIMA" width="150" height="83">
-		</a>
+		<p>	
+			<a href="http://www.cimaglobal.com/">
+			<img src="<?php echo get_template_directory_uri(); ?>/library/images/PCH_pink.jpg" alt="CIMA" width="100" height="55">
+			</a>
+			</br>
+			<a href="http://www.xero.com/">
+			<img src="<?php echo get_template_directory_uri(); ?>/images/xero-logo.png" title="We are a Xero Partner" alt="We are a Xero Partner" width="100" height="100">
+			</a>
+
+		<!--</br></br>
+		<a href="http://www.clearbooks.co.uk/">
+			<img src="<?php echo get_template_directory_uri(); ?>/images/clear-books-logo-rgb.png" title="We work with Clearbooks" alt="We work with Clearbooks" width="205" height="50">
+		</a>-->
 		</p>
 	</div>
 					
@@ -48,14 +50,14 @@
 	<p>
 	81 Dale Road,</br>
 	Matlock,</br>
-	DE4 3DN</br>
+	DE4 3LU</br>
 	01629 55255
 	</p>
 					
 	<nav role="navigation" class="nav service">
 	<ul class="nav">
-		<li><a href="http://www.facebook.com/KFAccountingServices/"><i class="icon-facebook-sign icon-2x"></i> Chat on Facebook</a></li>
-		<li><a href="http://www.twitter.com/kfaccounting/" target="_blank"><i class="icon-twitter-sign icon-2x"></i> Say Hello on Twitter</a></li>
+		<li><a href="http://www.facebook.com/KFAccountingServices/"><i class="icon-facebook-sign icon-2x"></i> Facebook</a></li>
+		<li><a href="http://www.twitter.com/kfaccounting/" target="_blank"><i class="icon-twitter-sign icon-2x"></i> Twitter</a></li>
 		<!--<li><a href="https://plus.google.com/u/1/b/101856043115495106107/101856043115495106107" rel="publisher" target="_blank"><i class="fa-google-plus icon-2x"></i>Review on Google+</a></li>-->
 		<!--<li><a href="https://www.linkedin.com/company/kf-accounting-services/" target="_blank"><i class="fa-linkedin-square icon-2x"></i>Connect on LinkedIn</a></li>-->
 	</ul>
