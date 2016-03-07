@@ -312,7 +312,7 @@ Template Name: KFAS Single Home Page
 		<div class="sixcol first about">
 		<h5>Kerry Carter<br>Accounts Assistant</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/kerry-icon.fw.png" / alt="Kerry Carter" height="250" width="253">
-		<p>Kerry is our CIMA-trained accounts-prep whizz with more than 6 years of accounting experience. She is very creative and loves making things.</p>
+		<p>Kerry is our CIMA-trained accounts-prep whizz with more than six years of accounting experience. She is very creative and loves making things.</p>
 		</div>
 
 		<div class="sixcol last about">
