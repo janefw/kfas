@@ -100,12 +100,13 @@ Template Name: KFAS Single Home Page
 	<section class ="entry-content clearfix"><!--Service intro section-->
 
 		<!--<P style="text-align:center">We love supporting small businesses and start-ups. </p>-->
-		<p style="text-align:center"><i class="fa-rocket icon-4x pull-left" style="color:#cc3399"></i><strong>You have a profitable, limited company with a turnover of at £25k - £500k, or you're planning to achieve this in your first year. You understand the importance of accurate, regular financial information to the success of your company and you're comfortable using technology to help achieve your business goals.</strong></p>
+		<p style="text-align:center"><i class="fa-rocket icon-4x pull-left" style="color:#cc3399"></i><strong>You have a growing business in the <span style="color:#cc3399">Derbyshire</span> area or are planning to start one. You have a strong vision for your business but a nagging fear around the numbers and tax side of things keeps you awake at night.  You'd love to understand more about what makes your business tick and are comfortable using technology to help achieve your business aims. You like to get hands-on and aren't afraid to learn something new.</strong></p>
+		
 
 		<div class="sixcol first comp">
 
 		<p><i class="fa-thumbs-up icon-4x pull-left" style="color:#cc3399"></i></p>
-		<p>If this sounds like you and your business then I think <span style="color:#cc3399">we could be good together.</span> </p> 
+		<p>If this sounds like you and your business then I think <span style="color:#cc3399">we could be good together.</span> We can help you to get to know and love your business numbers, get rid of the money dread and take away the tax stress.</p> 
 
 		<p>Start by picking your package below, then we'll give you a fixed price based on your particular business situation and needs. We can spread your payments monthly by direct debit to make things easier.</p>	
 
@@ -134,28 +135,26 @@ Template Name: KFAS Single Home Page
 					    	<p><strong><span style ="color:#cc3399">From £60 per month + VAT</span></strong></p>
 							
 							<div class = "includes">
+							
 							<p>
 								<ul>
-								<li><i class="fa fa-check"></i>One set of year end accounts</li>
-								<li><i class="fa fa-check"></i>One personal or corporation tax return</li>
-								<li><i class="fa fa-check"></i>Review by email</li>
-								<li><i class="fa fa-check"></i>Filing of return</li>
-								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
-								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
 								<li><i class="fa fa-check"></i>Cloud Accounting package</li>
-								<li><i class="fa fa-check"></i>Annual return for Ltd Co</li>
-								<li><i class="fa fa-check"></i>Director's payroll</li>
+								<li><i class="fa fa-check"></i>Set up accounts in the Cloud</li>
+								<li><i class="fa fa-check"></i>Training on Bookkeeping Basics</li>
 								<li><i class="fa fa-check"></i>Quarterly bookkeeping check-up</li>
-								</ul></p>
+								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
+								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
+								<li><i class="fa fa-check"></i>Year end business accounts</li>
+								<li><i class="fa fa-check"></i>Personal or Corporation tax return</li>
+								<li><i class="fa fa-check"></i>Filing of tax returns</li>
+								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
+								<li><i class="fa fa-check"></i>Annual Return for Ltd Co</li>
+								<li><i class="fa fa-check"></i>Director's payroll (Ltd Co)</li>
+								</ul>
+							</p>
+							
 							</div>
 							
-							<!--<p><strong>Optional extras for all packages:</strong>
-								<ul>
-								<li><i class="fa fa-star"></i>Additional payroll</li>
-								<li><i class="fa fa-star"></i>Additional personal tax return</li>
-								<li><i class="fa fa-star"></i>Bookkeeping data entry</li>
-								</ul></p>-->
 					    </div>
 
 		<!--Accounting Extra -->
@@ -171,23 +170,26 @@ Template Name: KFAS Single Home Page
 							<p><strong><span style ="color:#cc3399">From £85 per month + VAT</span></strong></p>
 
 							<div class = "includes">
+							
 							<p>
 								<ul>
-								<li><i class="fa fa-check"></i>One set of year end accounts</li>
-								<li><i class="fa fa-check"></i>One personal or corporation tax return</li>
-								<li><i class="fa fa-check"></i>Review by email</li>
-								<li><i class="fa fa-check"></i>Filing of return</li>
-								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
-								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
 								<li><i class="fa fa-check"></i>Cloud Accounting package</li>
-								<li><i class="fa fa-check"></i>Annual return for Ltd Co</li>
-								<li><i class="fa fa-check"></i>Director's payroll</li>
+								<li><i class="fa fa-check"></i>Set up accounts in the Cloud</li>
+								<li><i class="fa fa-check"></i>Training on Bookkeeping Basics</li>
 								<li><i class="fa fa-check"></i>Quarterly bookkeeping check-up</li>
+								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
+								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
+								<li><i class="fa fa-check"></i>Year end business accounts</li>
+								<li><i class="fa fa-check"></i>Personal or Corporation tax return</li>
+								<li><i class="fa fa-check"></i>Filing of tax returns</li>
+								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
+								<li><i class="fa fa-check"></i>Annual Return for Ltd Co</li>
+								<li><i class="fa fa-check"></i>Director's payroll (Ltd Co)</li>
 								<li><i class="fa fa-check"></i>Quarterly VAT returns (standard or flat rate)</li>
 								</ul>
 							</p>
 					    </div>
+
 					    </div>
 
 					    <!--Accounting Max -->
@@ -202,24 +204,27 @@ Template Name: KFAS Single Home Page
 						<p><strong><span style ="color:#cc3399">From £140 per month + VAT</span></strong></p>
 
 						<div class = "includes">
+						
 						<p>
-							<ul>
-								<li><i class="fa fa-check"></i>One set of year end accounts</li>
-								<li><i class="fa fa-check"></i>One personal or corporation tax return</li>
-								<li><i class="fa fa-check"></i>Review by email</li>
-								<li><i class="fa fa-check"></i>Filing of return</li>
-								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
-								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
+								<ul>
 								<li><i class="fa fa-check"></i>Cloud Accounting package</li>
-								<li><i class="fa fa-check"></i>Annual return for Ltd Co</li>
-								<li><i class="fa fa-check"></i>Director's payroll</li>
-								<li><i class="fa fa-check"></i>Monthly bookkeeping check-up</li>
+								<li><i class="fa fa-check"></i>Set up accounts in the Cloud</li>
+								<li><i class="fa fa-check"></i>Training on Bookkeeping Basics</li>
+								<li><i class="fa fa-check"></i>Quarterly bookkeeping check-up</li>
+								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
+								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
+								<li><i class="fa fa-check"></i>Year end business accounts</li>
+								<li><i class="fa fa-check"></i>Personal or Corporation tax return</li>
+								<li><i class="fa fa-check"></i>Filing of tax returns</li>
+								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
+								<li><i class="fa fa-check"></i>Annual Return for Ltd Co</li>
+								<li><i class="fa fa-check"></i>Director's payroll (Ltd Co)</li>
 								<li><i class="fa fa-check"></i>Quarterly VAT returns (standard or flat rate)</li>
 								<li><i class="fa fa-check"></i>Progress & review meetings</li>
 								<li><i class="fa fa-check"></i>Monthly accounts and reports</li>
-							</ul>
-						</p>
+								</ul>
+							</p>
+						
 						</div>
 
 					    </div>
@@ -227,7 +232,7 @@ Template Name: KFAS Single Home Page
 		
 				<section class ="entry-content comp clearfix"><!--Service extras section-->
 
-						<p><strong>Optional extras for all packages:</strong>
+						<p><strong>What else? Additional services.</strong>
 								<ul>
 								<li><i class="fa fa-check pull-left"></i>Bookkeeping data entry</li>
 								<li><i class="fa fa-check pull-left"></i>Additional payroll employees</li>
@@ -235,7 +240,7 @@ Template Name: KFAS Single Home Page
 								</ul>
 						</p>
 						
-						<p><i class="fa fa-check pull-left icon-muted" style="color:#cc3399;"></i><a href="<?php echo home_url(); ?>/business-kick-starter/">New Business Kickstarter</a> - When you are just starting out there are a lot of things to take care of. We help with everything from incorporations, registering with HMRC, payroll setup to selecting an accounts package.</p>
+						<p><i class="fa fa-check pull-left"></i><a href="<?php echo home_url(); ?>/business-kick-starter/">New Business Kickstarter</a> - There's lots to take care of when you set up a new bsuiness. We can help with everything from incorporations, registering with HMRC, payroll setup to selecting an accounts package.</p>
 
 						</div>	
 						</section>			
@@ -295,7 +300,7 @@ Template Name: KFAS Single Home Page
 	<div class="twelvecol first about">
 	<a class="anchor" id="who-a"></a>
 	<h2>Who we are</h2>
-	<p>We’re a chartered accountancy firm based in Matlock. We love cycling, coffee and cake.</p>
+	<p>We’re a chartered accountancy firm based in Matlock. Between us we love cycling, craft, coffee and cake.</p>
 	<div class="sixcol first about">
 		<h5>Keith Falconer<br>Director</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/keith-icon.png" / alt="Keith Falconer" height="250" width="300">
