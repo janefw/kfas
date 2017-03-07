@@ -56,7 +56,7 @@ Template Name: KFAS Single Home Page
 	
 		<div class="twelvecol first intro">
 		<h2>Business is complicated enough, we'll keep it simple</h2>
-		<p>We are a Matlock based chartered accountancy practice offering simple, straightforward, easy accounting services to small business.</p>
+		<p>We are a Matlock based accountancy practice offering simple, straightforward, easy accounting services to small business.</p>
 		<p>Get in touch with us today we'd love to meet you.</p>
 		
 		<div id="call-to-action">
@@ -101,11 +101,11 @@ Template Name: KFAS Single Home Page
 
 		<!--<P style="text-align:center">We love supporting small businesses and start-ups. </p>-->
 
-		<p>UPDATE - At the moment we're in the extremely lucky position of having a full practice. It's really important for us to be able to provide the best quality service for all our clients, old and new. We're being very targeted about new clients to make sure we don't overstretch our practice. Here's the type of new business we're now focusing on. Is this you?</p> 
+		<p>UPDATE - At the moment we're in the extremely lucky position of having a full practice. It's really important for us to be able to provide the best quality service for all our clients, old and new. We're being very targeted about new clients to make sure we don't overstretch our practice. Here's the type of new business we're now focusing on.</p> 
 
 		<p>&nbsp;</p>
 
-		<p><i class="fa-rocket icon-4x pull-left" style="color:#cc3399"></i><strong>You have a growing business in the <span style="color:#cc3399">Derbyshire</span> area with turnover at least 80k or 
+		<p><i class="fa-rocket icon-4x pull-left" style="color:#cc3399"></i><strong>You have a growing business in the <span style="color:#cc3399">Derbyshire</span> area with turnover at least £80k or 
 		you're are a planning a start-up to reach that turnover within a few years. You're looking for a full services accounting package e.g. accounts, tax, VAT and payroll. You'd love to understand more about what makes your business tick and are comfortable using technology to help achieve your business aims. </strong></p>
 		
 		<p>&nbsp;</p>
@@ -304,7 +304,7 @@ Template Name: KFAS Single Home Page
 	<div class="twelvecol first about">
 	<a class="anchor" id="who-a"></a>
 	<h2>Who we are</h2>
-	<p>We’re a chartered accountancy firm based in Matlock. Between us we love cycling, craft, coffee and cake.</p>
+	<p>We’re family-run accountancy firm based in Matlock. Between us we love cycling, craft, coffee and cake.</p>
 	
 		<div class="sixcol first about">
 		<h5>Jane Falconer-White<br>Director</h5>

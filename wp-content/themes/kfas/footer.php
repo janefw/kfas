@@ -19,24 +19,23 @@
 	 </div>
 					
 								
-	<div class="threecol footer-section">
+		<div class="threecol footer-section">
 		<p>
-		</br></br>
-	<!--<a href="http://www.cimaglobal.com/">
-			<img src="<?php echo get_template_directory_uri(); ?>/library/images/PCH_pink.jpg" alt="CIMA" width="150" height="83">
-		</a>-->
+		<a href="http://www.xero.com/">
+			<img src="<?php echo get_template_directory_uri(); ?>/images/xero-bronze-partner-logo-RGB.png" title="We are a Xero Partner" alt="We are a Xero Bronze Partner" width="200" height="115">
+			</a>
 		</p>
 	</div>
 
 	<div class="threecol footer-section">
 		<p>	
-			<a href="http://www.cimaglobal.com/">
+			<a href="http://www.aat.org.uk/">
+			<img src="<?php echo get_template_directory_uri(); ?>/images/LA_AAT_green_online_logo.png" alt="AAT" width="175" height="44"></a>
+			<p>Jane Falconer-White is licensed and regulated by AAT under licence number 1001260</p>
+			<!--<a href="http://www.cimaglobal.com/">
 			<img src="<?php echo get_template_directory_uri(); ?>/library/images/PCH_pink.jpg" alt="CIMA" width="100" height="55">
-			</a>
+			</a>-->
 			</br>
-			<a href="http://www.xero.com/">
-			<img src="<?php echo get_template_directory_uri(); ?>/images/xero-logo.png" title="We are a Xero Partner" alt="We are a Xero Partner" width="100" height="100">
-			</a>
 
 		<!--</br></br>
 		<a href="http://www.clearbooks.co.uk/">
@@ -62,6 +61,7 @@
 		<!--<li><a href="https://www.linkedin.com/company/kf-accounting-services/" target="_blank"><i class="fa-linkedin-square icon-2x"></i>Connect on LinkedIn</a></li>-->
 	</ul>
 	</nav>
+	</div>
 	
 	</div>
 				
