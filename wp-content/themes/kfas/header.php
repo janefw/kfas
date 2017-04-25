@@ -67,13 +67,14 @@
 					<nav id="main-nav" class= "navbar" role="navigation">
 					<!--<?php bones_main_nav(); ?>-->
 					 <ul>
-    <li><a class="link" href="#home-a"><i class="icon-home icon-large"></i> Home</a></li>
-    <li><a class="link" href="#services-a"><i class="icon-book icon-large"></i> Our Services</a></li>
-    <li><a class="link" href="#about-a"><i class="fa-coffee icon-large"></i> Approach</a></li>
-    <li><a class="link" href="#who-a"><i class="fa-user icon-large"></i> Who</a></li>
-    <li><a class="link" href="<?php echo home_url(); ?>/blog"><i class="fa-pencil-square-o icon-large"></i> Blog</a></li>
-    <li><a class="link" href= "#contact-a"><i class="icon-phone icon-large"></i> Contact Us</a></li>
-    </ul>
+    					<li><a class="link" href="#home-a"><i class="icon-home icon-large"></i> Home</a></li>
+    					<li><a class="link" href="<?php echo home_url(); ?>/#services-a"><i class="fa-user icon-large"></i> Our Services</a></li>
+						<!--<li><a class="link" href="<?php echo home_url(); ?>/#about-a"><i class="fa-coffee icon-large"></i> Approach</a></li>-->
+   				 		<!--<li><a class="link" href="<?php echo home_url(); ?>/#who-a"><i class="fa-user icon-large"></i> Who</a></li>-->
+    					<li><a class="link" href="<?php echo home_url(); ?>/blog"><i class="fa-pencil-square-o icon-large"></i> Blog</a></li>
+    					<li><a class="link" href="http://courses.businessfitnessacademy.co.uk/finance-fit-in-5/"><i class="icon-book icon-large"></i> Free Course</a></li>
+    					<li><a class="link" href= "#contact-a"><i class="icon-phone icon-large"></i> Contact Us</a></li>
+    				</ul>
 					</nav>
 
 				</div> <!-- end #inner-header -->

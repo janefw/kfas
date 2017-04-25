@@ -30,19 +30,17 @@ Template Name: KFAS Single Home Page
 	<div class="sixcol last intro">
 		<h2>Business is complicated enough ....</h2>
 		<p>Hello, take a weight off your mind, you've come to the right place. We're all about taking the worry and stress out of your business finances so you can make informed decisions and focus on the good stuff. </p>
-		<p>In fact, we might be able to help you right now if you check out our blog.</p>
+		<p>In fact, we might be able to help you right now if you check out our blog or free email course - Finance Fit in 5.</p>
 		
 		<div id="call-to-action">
 			<div class= "sixcol first buttons clearfix">
-			<a class="call-button talk" href="#contact-a">Contact us</a>
-			</div>
+			<a class="call-button talk" href="http://courses.businessfitnessacademy.co.uk/finance-fit-in-5/">Free course</a></div>
 			<div class="sixcol last buttons clearfix">
 			<a class="call-button more" href="<?php echo home_url(); ?>/blog">Visit our blog</a>
 			</div>
 
 			<div class= "sixcol first buttons-mobile clearfix">
-			<a class="call-button talk" href="#contact-a">Contact us</a>
-			</div>
+			<a class="call-button talk" href="http://courses.businessfitnessacademy.co.uk/finance-fit-in-5/">Free course</a></div>
 			<div class="sixcol last buttons-mobile clearfix">
 			<a class="call-button more" href="<?php echo home_url(); ?>/blog">Visit our blog</a>
 			</div>
@@ -57,19 +55,17 @@ Template Name: KFAS Single Home Page
 		<div class="twelvecol first intro">
 		<h2>Business is complicated enough, we'll keep it simple</h2>
 		<p>We are a Matlock based accountancy practice offering simple, straightforward, easy accounting services to small business.</p>
-		<p>Get in touch with us today we'd love to meet you.</p>
+		<p>Get in touch with us today we'd love to meet you.</br>Or why not check out our blog or free email course.</p>
 		
 		<div id="call-to-action">
 			<div class= "sixcol first buttons clearfix">
-			<a class="call-button talk" href="#contact-a">Contact us</a>
-			</div>
+			<a class="call-button talk" href="http://courses.businessfitnessacademy.co.uk/finance-fit-in-5/">Free course</a></div>
 			<div class="sixcol last buttons clearfix">
 			<a class="call-button more" href="<?php echo home_url(); ?>/blog">Visit our blog</a>
 			</div>
 
 			<div class= "sixcol first buttons-mobile clearfix">
-			<a class="call-button talk" href="#contact-a">Contact us</a>
-			</div>
+			<a class="call-button talk" href="http://courses.businessfitnessacademy.co.uk/finance-fit-in-5/">Free course</a></div>
 			<div class="sixcol last buttons-mobile clearfix">
 			<a class="call-button more" href="<?php echo home_url(); ?>/blog">Visit our blog</a>
 			</div>
@@ -116,7 +112,7 @@ Template Name: KFAS Single Home Page
 		<p>&nbsp;</p>
 
 		<p><i class="fa-question icon-4x pull-left" style="color:#6699cc"></i></p>
-		<p>If this isn't you and your business at the moment, we've still got some great stuff for you. Take a look at <a href="<?php echo home_url(); ?>/blog">our popular blog</a> for lots of information and explanations to help you understand your business finances.</p>
+		<p>If this isn't you and your business at the moment, we've still got some great stuff for you. Take a look at <a href="<?php echo home_url(); ?>/blog"><strong><span style="color:#cc3399">our popular blog</span></strong></a> for lots of information and explanations to help you understand your business finances. Join our <a class="link" href="http://courses.businessfitnessacademy.co.uk/finance-fit-in-5/"><strong><span style="color:#cc3399">free email course - Finance Fit in 5</span></strong></a> and learn the five simple steps to keep your business finances in shape.</p>
 
 		<p>&nbsp;</p>
 
