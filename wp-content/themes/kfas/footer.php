@@ -36,7 +36,7 @@
 			<!--<a href="http://www.cimaglobal.com/">
 			<img src="<?php echo get_template_directory_uri(); ?>/library/images/PCH_pink.jpg" alt="CIMA" width="100" height="55">
 			</a>-->
-			</br>
+			"KF Accounting Services" is the trading name of White Falcon Business Services Ltd</br> Company No. 08023338</br>VAT No. 210146077
 
 		<!--</br></br>
 		<a href="http://www.clearbooks.co.uk/">

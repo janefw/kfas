@@ -20,7 +20,7 @@
 
 		<!-- icons & favicons (for more: http://www.jonathantneal.com/blog/understand-the-favicon/) -->
 		<link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/library/images/apple-icon-touch.png">
-		<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/favicon.png">
+		<link rel="icon" href="<?php echo get_template_directory_uri(); ?>/favicon.ico">
 		<!--[if IE]>
 			<link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/favicon.ico">
 		<![endif]-->
@@ -58,7 +58,7 @@
 					
 					<a href="<?php echo home_url(); ?>" rel="nofollow">
 					
-					<img id="logo" src="<?php echo get_template_directory_uri(); ?>/library/images/kfas-logo-tran.gif" width="300" height="87">
+					<img id="logo" src="<?php echo get_template_directory_uri(); ?>/library/images/kfas-logo.png" width="300" height="87">
 					</a>
 					
 					<!-- if you'd like to use the site description you can un-comment it below -->
