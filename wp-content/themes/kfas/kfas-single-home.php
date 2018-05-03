@@ -305,7 +305,7 @@ Template Name: KFAS Single Home Page
 		<div class="sixcol first about">
 		<h5>Jane Falconer-White<br>Director</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/jane-icon.png" / alt="Jane Falconer-White" height="250" width="263">
-		<p>Jane has a background in management consultancy and is a professional member of the AAT. She can often be found rounding up her small children in Matlock park or on the track at Derby velodrome.</p>
+		<p>Jane has a background in management consultancy and is a professional member of the AAT. She can often be found rounding up her children in Matlock park or on the track at Derby velodrome.</p>
 		</div>	
 	
 		<div class="sixcol last about">
@@ -317,25 +317,25 @@ Template Name: KFAS Single Home Page
 		<div class="sixcol first about">
 		<h5>Kerry Carter<br>Practice Accountant</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/kerry-icon.fw.png" / alt="Kerry Carter" height="250" width="253">
-		<p>Kerry is a CIMA chartered management accountant. She's our accounts-prep whizz with more than six years of accounting experience. She's also very creative and loves making things.</p>
+		<p>Kerry is a CIMA chartered management accountant. She's our accounts-prep whizz with more than six years of accounting experience. She's very creative and loves making things. She's also been known to do the odd triathlon.</p>
 		</div>
 
 		<div class="sixcol last about">
 		<h5>Doreen Watt<br>Bookkeeper</h5>
 		<img src="<?php echo get_template_directory_uri(); ?>/images/doreen-icon.png" / alt="Doreen Watt" height="250" width="308">
-		<p>Doreen looks after book keeping and admin for the practice. She is also fantastic at making cakes.</p>
+		<p>Doreen looks after book keeping and admin for the practice. She is also fantastic at making cakes and keeps us up to date with all things cultural.</p>
 		</div>
 
 		<p>&nbsp;</p>
 
 		<div class="sixcol first about">
-		<h5>Mandy Taylor<br>Practice Accountant</h5>
-		<p>Our new team member, photo and profile to follow.</p>
+		<h5>Tony Falconer-White<br>Accountant</h5>
+		<p>Tony is working through his AAT accountancy exams. He brings skills and experience in human resources and payroll from his previous roles. Another keen cyclist, he prefers testing himself on the Derbyshire hills. Photo to follow.</p>
 		</div>
 
 		<div class="sixcol first about">
 		<h5>Catherine Benson<br>Admin & Office Manager</h5>
-		<p>Our new team member, photo and profile to follow.</p>
+		<p>Catherine is fantastic at keeping the practice and all of us organised. Also a cyclist, she's often found riding the mountain bike trails with her family. Photo to follow.</p>
 		</div>
 
 	</div>	
