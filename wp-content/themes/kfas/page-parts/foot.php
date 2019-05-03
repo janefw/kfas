@@ -8,8 +8,6 @@
 		    <ul class="nav">
 	    	<li><a class="link" href="#home-a"><i class="icon-home icon-large"></i> Home</a></li>
 	    	<li><a class="link" href="<?php echo home_url(); ?>/#services-a"><i class="fa-user icon-large"></i> Our Services</a></li>
-			<!--<li><a class="link" href="<?php echo home_url(); ?>/#about-a"><i class="fa-coffee icon-large"></i> Approach</a></li>-->
-   			<!--<li><a class="link" href="<?php echo home_url(); ?>/#who-a"><i class="fa-user icon-large"></i> Who</a></li>-->
     		<li><a class="link" href="<?php echo home_url(); ?>/blog"><i class="fa-pencil-square-o icon-large"></i> Blog</a></li>
     		<!--<li><a class="link" href="http://courses.businessfitnessacademy.co.uk/finance-fit-in-5/"><i class="icon-book icon-large"></i> Free Course</a></li>-->
 	        <!--<li><a class="link" href= "<?php echo home_url(); ?>/jobs"><i class="icon-envelope"></i> Jobs</a></li>-->
@@ -23,7 +21,17 @@
 	<div class="threecol footer-section">
 		<p>
 		<a href="http://www.xero.com/">
-			<img src="<?php echo get_template_directory_uri(); ?>/images/xero-bronze-partner-logo-RGB.png" title="We are a Xero Partner" alt="We are a Xero Bronze Partner" width="200" height="115">
+			<img src="<?php echo get_template_directory_uri(); ?>/images/xero-silver-partner-badge-RGB.png" title="We are a Xero Partner" alt="We are a Xero Silver Partner" width="150" height="85.5">
+			</a>
+		</p>
+		<p>
+		<a href="http://www.xero.com/">
+			<img src="<?php echo get_template_directory_uri(); ?>/images/Xero_MTD_Ready_web_badge.png" title="We are a Xero Partner" alt="We are a Xero Silver Partner" width="150" height="30">
+			</a>
+		</p>
+		<p>
+		<a href="http://www.xero.com/">
+			<img src="<?php echo get_template_directory_uri(); ?>/images/float-logo-blue.png" title="We are a Xero Partner" alt="We Float cashflow software Partner" width="150" height="38">
 			</a>
 		</p>
 	</div>
@@ -33,14 +41,7 @@
 			<a href="http://www.aat.org.uk/">
 			<img src="<?php echo get_template_directory_uri(); ?>/images/LA_AAT_green_online_logo.png" alt="AAT" width="175" height="44"></a>
 			<p>Jane Falconer-White is licensed and regulated by AAT under licence number 1001260</p>
-			<!--<a href="http://www.cimaglobal.com/">
-			<img src="<?php echo get_template_directory_uri(); ?>/library/images/PCH_pink.jpg" alt="CIMA" width="100" height="55">
-			</a>-->
 		"KF Accounting Services" is the trading name of White Falcon Business Services Ltd</br> Company No. 08023338</br>VAT No. 210146077
-		<!--</br></br>
-		<a href="http://www.clearbooks.co.uk/">
-			<img src="<?php echo get_template_directory_uri(); ?>/images/clear-books-logo-rgb.png" title="We work with Clearbooks" alt="We work with Clearbooks" width="205" height="50">
-		</a>-->
 		</p>
 	</div>
 					
@@ -57,8 +58,7 @@
 	<ul class="nav">
 		<li><a href="http://www.facebook.com/KFAccountingServices/"><i class="icon-facebook-sign icon-2x"></i> Facebook</a></li>
 		<li><a href="http://www.twitter.com/kfaccounting/" target="_blank"><i class="icon-twitter-sign icon-2x"></i> Twitter</a></li>
-		<!--<li><a href="https://plus.google.com/u/1/b/101856043115495106107/101856043115495106107" rel="publisher" target="_blank"><i class="fa-google-plus icon-2x"></i>Review on Google+</a></li>-->
-		<!--<li><a href="https://www.linkedin.com/company/kf-accounting-services/" target="_blank"><i class="fa-linkedin-square icon-2x"></i>Connect on LinkedIn</a></li>-->
+
 	</ul>
 	</nav>
 	</div>
