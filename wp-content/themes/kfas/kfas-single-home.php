@@ -12,8 +12,6 @@ Template Name: KFAS Single Home Page
 	
 <section id="introduction">		
 
-<!--<div id="main" class="twelvecol first clearfix" role="main">-->
-
 <!--start of intro section, two columns-->
 <div class="intro-container clearfix page">	
 <a class="anchor" id="intro-a"></a>
@@ -95,155 +93,35 @@ Template Name: KFAS Single Home Page
 
 	<section class ="entry-content clearfix"><!--Service intro section-->
 
-		<!--<P style="text-align:center">We love supporting small businesses and start-ups. </p>-->
+		<P style="text-align:center">We love supporting small businesses and start-ups. Will we be a good fit together?</p>
 
-		<p>UPDATE - At the moment we're in the extremely lucky position of having a full practice. It's really important for us to be able to provide the best quality service for all our clients, old and new. We're being very targeted about new clients to make sure we don't overstretch our practice. Here's the type of new business we're now focusing on.</p> 
+		<!--<p>UPDATE - At the moment we're in the extremely lucky position of having a full practice. It's really important for us to be able to provide the best quality service for all our clients, old and new. We're being very targeted about new clients to make sure we don't overstretch our practice. Here's the type of new business we're now focusing on.</p> -->
 
 		<p>&nbsp;</p>
 
-		<p><i class="fa-rocket icon-4x pull-left" style="color:#cc3399"></i><strong>You have a growing business in the <span style="color:#cc3399">Derbyshire</span> area with turnover at least £80k or 
-		you're are a planning a start-up to reach that turnover within a few years. You're looking for a full services accounting package e.g. accounts, tax, VAT and payroll. You'd love to understand more about what makes your business tick and are comfortable using technology to help achieve your business aims. </strong></p>
+		<p><i class="fa-rocket icon-3x pull-left" style="color:#cc3399"></i>You have a growing business or start-up in the <span style="color:#cc3399">Derbyshire</span> area. You're looking for a full services accounting package e.g. accounts, tax, VAT and payroll. You'd love to understand more about what makes your business tick and are comfortable using technology to help achieve your business aims.</p>
 		
 		<p>&nbsp;</p>
 
-		<p><i class="fa-thumbs-up icon-4x pull-left" style="color:#cc3399"></i></p>
-		<p>If this sounds like you and your business then I think <span style="color:#cc3399">we could be good together.</span> We can help you to get to know and love your business numbers, get rid of the money dread and take away the tax stress. Give us a call, we'd love to hear from you.</p>	
+		<p><i class="fa-fast-forward icon-3x pull-left" style="color:#cc3399"></i>You have a VAT registered business that <span style="color:#cc3399">needs to go digital</span> but you don't have hours to spend sorting it all out. You need some help to make a smooth transition that doesn't impact your business.</p>
+		
+		<p>&nbsp;</p>
+
+		<p><i class="fa-compass icon-3x pull-left" style="color:#cc3399"></i>You have a great business with a good turnover but feel <span style="color:#cc3399">a bit out of control</span>. Cashflow is often an issue and you're never really sure how much money you're actually making. You want to be on top of your business finances rather than constantly fire fighting.</p>
+		
+		<p>&nbsp;</p>
+
+		<p><i class="fa-thumbs-up icon-3x pull-left" style="color:#cc3399"></i>If this sounds like you and your business then I think <span style="color:#cc3399">we could be good together.</span> We can help you to get to know and love your business numbers, get rid of the money dread and take away the tax stress. Give us a call, we'd love to hear from you.</p>	
 
 		<p>&nbsp;</p>
 
-		<p><i class="fa-question icon-4x pull-left" style="color:#6699cc"></i></p>
-		<p>If this isn't you and your business at the moment, we've still got some great stuff for you. Take a look at <a href="<?php echo home_url(); ?>/blog"><strong><span style="color:#cc3399">our popular blog</span></strong></a> for lots of information and explanations to help you understand your business finances. <!--Join our <a class="link" href="http://courses.businessfitnessacademy.co.uk/finance-fit-in-5/"><strong><span style="color:#cc3399">free email course - Finance Fit in 5</span></strong></a> and learn the five simple steps to keep your business finances in shape.--></p>
+		<p><i class="fa-question icon-3x pull-left" style="color:#6699cc"></i>If this isn't you and your business at the moment, we've still got some great stuff for you. <br>Take a look at <a href="<?php echo home_url(); ?>/blog"><span style="color:#cc3399">our popular blog</span></a> for lots of information and explanations to help you understand your business finances.</p>
 
 		<p>&nbsp;</p>
 
-		<!--</div>-->
 		
 		</section><!--End of services intro section-->
-
-		<!--<section id="comparison" class ="entry-content clearfix">
-
-			<!--Accounting Basics-->
-
-					    <!--<div class="fourcol first comp">
-					    	<p class="comp-title">Accounting Basics</p>
-					    	<div class ="description">
-					    	<!--<p> <span style ="color:#cc3399">**Our most popular package** </span></p>-->
-					    	<!--<p>This is ideal for non-VAT registered businesses and new starters. You are small but growing.
-					    	</p>
-					    	</div>
-
-					    	<p><strong><span style ="color:#cc3399">From £60 per month + VAT</span></strong></p>
-							
-							<div class = "includes">
-							
-							<p>
-								<ul>
-								<li><i class="fa fa-check"></i>Cloud Accounting package</li>
-								<li><i class="fa fa-check"></i>Set up accounts in the Cloud</li>
-								<li><i class="fa fa-check"></i>Training on Bookkeeping Basics</li>
-								<li><i class="fa fa-check"></i>Quarterly bookkeeping check-up</li>
-								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
-								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
-								<li><i class="fa fa-check"></i>Year end business accounts</li>
-								<li><i class="fa fa-check"></i>Personal or Corporation tax return</li>
-								<li><i class="fa fa-check"></i>Filing of tax returns</li>
-								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Annual Return for Ltd Co</li>
-								<li><i class="fa fa-check"></i>Director's payroll (Ltd Co)</li>
-								</ul>
-							</p>
-							
-							</div>
-							
-					    </div>
-
-		<!--Accounting Extra -->
-
-					    <!--<div class="fourcol comp">
-					    	<p class="comp-title">Accounting Extra</p>
-					    	
-					    	<div class ="description">
-					    	<p>You business has begun to grow and you need more support as your accounts get more complex. You are now VAT registered. 
-					    	</p>
-							</div>
-							
-							<p><strong><span style ="color:#cc3399">From £85 per month + VAT</span></strong></p>
-
-							<div class = "includes">
-							
-							<p>
-								<ul>
-								<li><i class="fa fa-check"></i>Cloud Accounting package</li>
-								<li><i class="fa fa-check"></i>Set up accounts in the Cloud</li>
-								<li><i class="fa fa-check"></i>Training on Bookkeeping Basics</li>
-								<li><i class="fa fa-check"></i>Quarterly bookkeeping check-up</li>
-								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
-								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
-								<li><i class="fa fa-check"></i>Year end business accounts</li>
-								<li><i class="fa fa-check"></i>Personal or Corporation tax return</li>
-								<li><i class="fa fa-check"></i>Filing of tax returns</li>
-								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Annual Return for Ltd Co</li>
-								<li><i class="fa fa-check"></i>Director's payroll (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Quarterly VAT returns (standard or flat rate)</li>
-								</ul>
-							</p>
-					    </div>
-
-					    </div>
-
-					    <!--Accounting Max -->
-
-					    <!--<div class="fourcol comp last">
-					    <p class="comp-title">Accounting Max</p>
-					    <div class ="description">
-					    <p>It's not just about the statutory returns; you need regular information and support to keep on top of cash flow, customers and suppliers, to inform decisions and help you manage your business effectively.
-						</p>
-						</div>
-
-						<p><strong><span style ="color:#cc3399">From £140 per month + VAT</span></strong></p>
-
-						<div class = "includes">
-						
-						<p>
-								<ul>
-								<li><i class="fa fa-check"></i>Cloud Accounting package</li>
-								<li><i class="fa fa-check"></i>Set up accounts in the Cloud</li>
-								<li><i class="fa fa-check"></i>Training on Bookkeeping Basics</li>
-								<li><i class="fa fa-check"></i>Quarterly bookkeeping check-up</li>
-								<li><i class="fa fa-check"></i>Year round advice and guidance</li>
-								<li><i class="fa fa-check"></i>Tax investigation fee protection</li>
-								<li><i class="fa fa-check"></i>Year end business accounts</li>
-								<li><i class="fa fa-check"></i>Personal or Corporation tax return</li>
-								<li><i class="fa fa-check"></i>Filing of tax returns</li>
-								<li><i class="fa fa-check"></i>Director's personal return (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Annual Return for Ltd Co</li>
-								<li><i class="fa fa-check"></i>Director's payroll (Ltd Co)</li>
-								<li><i class="fa fa-check"></i>Quarterly VAT returns (standard or flat rate)</li>
-								<li><i class="fa fa-check"></i>Progress & review meetings</li>
-								<li><i class="fa fa-check"></i>Monthly accounts and reports</li>
-								</ul>
-							</p>
-						
-						</div>
-
-					    </div>
-				</section><!--End of comparison section-->			
-		
-				<!--<section class ="entry-content comp clearfix"><!--Service extras section-->
-
-						<!--<p><strong>What else? Additional services.</strong>
-								<ul>
-								<li><i class="fa fa-check pull-left"></i>Bookkeeping data entry</li>
-								<li><i class="fa fa-check pull-left"></i>Additional payroll employees</li>
-								<li><i class="fa fa-check pull-left"></i>Additional personal tax returns</li>
-								</ul>
-						</p>
-						
-						<p><i class="fa fa-check pull-left"></i><a href="<?php echo home_url(); ?>/business-kick-starter/">New Business Kickstarter</a> - There's lots to take care of when you set up a new bsuiness. We can help with everything from incorporations, registering with HMRC, payroll setup to selecting an accounts package.</p>
-
-						</div>	
-				</section><!--End of Service extras section-->			
+	
 						
 </div>
 	</div>
@@ -298,48 +176,64 @@ Template Name: KFAS Single Home Page
 	<div class="section-container wrap">
 
 	<div class="twelvecol first about">
-	<a class="anchor" id="who-a"></a>
-	<h2>Who we are</h2>
-	<p>We’re family-run accountancy firm based in Matlock. Between us we love cycling, craft, coffee and cake.</p>
-	
-		<div class="sixcol first about">
-		<h5>Jane Falconer-White<br>Director</h5>
-		<img src="<?php echo get_template_directory_uri(); ?>/images/jane-icon.png" / alt="Jane Falconer-White" height="250" width="263">
-		<p>Jane has a background in management consultancy and is a professional member of the AAT. She can often be found rounding up her children in Matlock park or on the track at Derby velodrome.</p>
-		</div>	
-	
-		<div class="sixcol last about">
-		<h5>Keith Falconer<br>Practice Specialist</h5>
-		<img src="<?php echo get_template_directory_uri(); ?>/images/keith-icon.png" / alt="Keith Falconer" height="250" width="300">
-		<p>Keith is a CIMA chartered management accountant with more years financial experience than he would care to admit. If you are lucky you might spot him on the cycle trails of Derbyshire.</p>
-		</div>
-	
-		<div class="sixcol first about">
-		<h5>Kerry Carter<br>Practice Accountant</h5>
-		<img src="<?php echo get_template_directory_uri(); ?>/images/kerry-icon.fw.png" / alt="Kerry Carter" height="250" width="253">
-		<p>Kerry is a CIMA chartered management accountant. She's our accounts-prep whizz with more than six years of accounting experience. She's very creative and loves making things. She's also been known to do the odd triathlon.</p>
-		</div>
+		<a class="anchor" id="who-a"></a>
+		<h2>Who we are</h2>
+		<p>We’re family-run accountancy firm based in Matlock. Between us we love cycling, craft, coffee and cake.</p>
 
-		<div class="sixcol last about">
-		<h5>Doreen Watt<br>Bookkeeper</h5>
-		<img src="<?php echo get_template_directory_uri(); ?>/images/doreen-icon.png" / alt="Doreen Watt" height="250" width="308">
-		<p>Doreen looks after book keeping and admin for the practice. She is also fantastic at making cakes and keeps us up to date with all things cultural.</p>
-		</div>
+		<p>We're big fans of using technology to make life easier. We're always on the lookout for great products that can help our clients. <br>We're proud to be a <span style="color:#cc3399">Xero Silver Partner</span> and if you need help with <span style="color:#cc3399">Making Tax Digital</span> then you've come to the right place.
+		<p>
+
+		<a href="http://www.xero.com/">
+			<img src="<?php echo get_template_directory_uri(); ?>/images/xero-silver-partner-badge-RGB.png" title="We are a Xero Partner" alt="We are a Xero Silver Partner" width="368.75" height="212.75">
+			</a>
+
+		<a href="http://www.xero.com/">
+			<img src="<?php echo get_template_directory_uri(); ?>/images/Xero_MTD_Ready_web_badge.png" title="We are a Xero Partner" alt="We are a Xero Silver Partner" width="400" height="80">
+			</a>
 
 		<p>&nbsp;</p>
 
-		<div class="sixcol first about">
-		<h5>Tony Falconer-White<br>Accountant</h5>
-		<p>Tony is working through his AAT accountancy exams. He brings skills and experience in human resources and payroll from his previous roles. Another keen cyclist, he prefers testing himself on the Derbyshire hills. Photo to follow.</p>
-		</div>
+			<div class="sixcol first about">
+			<h5>Jane Falconer-White<br>Director</h5>
+			<img src="<?php echo get_template_directory_uri(); ?>/images/jane-icon.png" / alt="Jane Falconer-White" height="250" width="263">
+			<p>Jane is a Professional Member of the AAT. She has a background in management consultancy and IT project managment. She can often be found rounding up her children in Matlock park or on the track at Derby velodrome.</p>
+			</div>	
+	
+			<div class="sixcol last about">
+			<h5>Kerry Carter<br>Practice Accountant</h5>
+			<img src="<?php echo get_template_directory_uri(); ?>/images/kerry-icon.fw.png" / alt="Kerry Carter" height="250" width="253">
+			<p>Kerry is a CIMA chartered management accountant. She's our accounts-prep whizz with more than eight years of accounting experience. She's very creative and loves making things. She's also been known to do the odd triathlon</p>
+			</div>
 
-		<div class="sixcol first about">
-		<h5>Catherine Benson<br>Admin & Office Manager</h5>
-		<p>Catherine is fantastic at keeping the practice and all of us organised. Also a cyclist, she's often found riding the mountain bike trails with her family. Photo to follow.</p>
-		</div>
+			<p>&nbsp;</p>
+	
+			<div class="sixcol first about">
+			<h5>Tony Falconer-White<br>Accountant</h5>
+			<p>Tony is working through his AAT accountancy exams. He brings skills and experience in human resources and payroll from his previous roles.  Another keen cyclist, he prefers testing himself on the Derbyshire hills.</p>
+			</div>
+
+			<div class="sixcol last about">
+			<h5>Catherine Benson<br>Admin & Office Manager</h5>
+			<p>Catherine is fantastic at keeping the practice and all of us organised. Also a cyclist, she's often found riding the mountain bike trails with her family. Photo to follow (maybe....)</p>
+			</div>
+
+			<p>&nbsp;</p>
+
+			
+			<div class="sixcol first about">
+
+			<h5>Here's a little secret....</h5>
+			<p>This is not the first time that Jane and Tony have run a business together as a husband-wife team.</p>
+			<p>In our pre-children, pre-accountancy days we quit the rat-race for a life a scuba instructors and ran our own dive centre in Spain.</p>
+			<p>We've been where you are as small business owners struggling with cashflow and taxes. We know just how stressful and difficult it can be sometimes.</p>
+			</div>	
+
+			<div class="sixcol last about">
+			<p><img src="<?php echo get_template_directory_uri(); ?>/images/Octopus - Tony.jpg" / alt="Tony Falconer-White" height="267" width="356"><figcaption>Tony Falconer-White</figcaption></p>
+			</div>
+
 
 	</div>	
-
 </div>
 
 </div> 
